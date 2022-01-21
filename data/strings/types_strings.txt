@@ -133,6 +133,7 @@
     it = Aeroporto
     ja = 空港
     ko = 공항
+    lv = Lidosta
     nb = Flyplass
     nl = Vliegveld
     pl = Lotnisko
@@ -165,6 +166,7 @@
     it = Aeroporto
     ja = 空港
     ko = 공항
+    lv = Starptautiska lidosta
     nb = Flyplass
     nl = Vliegveld
     pl = Lotnisko międzynarodowe
@@ -219,6 +221,7 @@
     it = Piattaforma per elicotteri
     ja = ヘリポート
     ko = 헬기착륙장
+    lv = Helikopteru platforma
     nl = Heliplatform
     pl = Lądowisko dla helikopterów
     pt = Heliponto
@@ -239,6 +242,7 @@
     de = Start-/Landebahn
     fr = Piste d'aviation
     ja = 滑走路
+    lv = Skrejceļš
     pl = Droga startowa
     pt = Pista de aeroporto ou aeródromo
     pt-BR = Pista de aeroporto ou aeródromo
@@ -287,6 +291,7 @@
     it = Opera infrastrutturale
     ja = アメニティー
     ko = 생활 편의시설
+    lv = Infrastruktūra
     nb = Rekreasjonsområde
     nl = Infrastructuur objecten
     pl = Obiekty infrastruktury
@@ -321,6 +326,7 @@
     it = Centro artistico
     ja = 芸術センター
     ko = 예술 회관
+    lv = Mākslas centrs
     nb = Kunstsenter
     nl = Kunstcentrum
     pl = Centrum sztuki
@@ -350,6 +356,7 @@
     fr = GAB
     hu = Pénzautomata
     it = Bancomat
+    lv = Bankomāts
     nb = Minibank
     nl = Geldautomaat
     pl = Bankomat
@@ -377,6 +384,7 @@
     it = Banca
     ja = 銀行
     ko = 은행
+    lv = Banka
     pt = Banco
     pt-BR = Banco
     ro = Bancă
@@ -398,6 +406,7 @@
     hu = Bár
     ja = 居酒屋
     ko = 바
+    lv = Bārs
     pt = Bar
     pt-BR = Drinqueria
     ru = Бар
@@ -423,6 +432,7 @@
     it = Picnic
     ja = ピクニック
     ko = 소풍 사이트
+    lv = Piknika vieta
     nb = Rasteplasser
     nl = Picnicplaats
     pl = Pole piknikowe
@@ -455,6 +465,7 @@
     it = Panchina
     ja = ベンチ
     ko = 벤치
+    lv = Soliņš
     nb = Benk
     nl = Zitbank
     pl = Ławka
@@ -487,6 +498,7 @@
     it = Parcheggio biciclette
     ja = 駐輪場
     ko = 자전거 주차장
+    lv = Velosipēdu stāvvieta
     nb = Sykkelparkering
     nl = Fietsenstalling
     pl = Parking dla rowerów
@@ -519,6 +531,7 @@
     it = Noleggio biciclette
     ja = レンタサイクル
     ko = 자전거 대여
+    lv = Velosipēdu noma
     nb = Sykkelutleie
     nl = Fietsverhuur
     pl = Wynajem rowerów
@@ -606,6 +619,7 @@
     it = Cambio valute
     ja = 外貨両替所
     ko = 환전
+    lv = Valūtas maiņa
     nb = Valutaveksling
     nl = Wisselkantoor
     pl = Kantor
@@ -638,6 +652,7 @@
     it = Autostazione
     ja = バスステーション
     ko = 버스 터미널
+    lv = Autoosta
     nb = Busstasjon
     nl = Busstation
     pl = Dworzec autobusowy
@@ -670,6 +685,7 @@
     it = Caffè
     ja = カフェ
     ko = 카페
+    lv = Kafejnīca
     nb = Kafé
     nl = Tearoom
     pl = Kawiarnia
@@ -702,6 +718,7 @@
     it = Noleggio di automobili
     ja = レンタカー
     ko = 카 렌탈
+    lv = Auto noma
     nb = Bilutleie
     nl = Autoverhuur
     pl = Wynajem samochodów
@@ -732,6 +749,7 @@
     id = Berbagi mobil
     ja = カーシェアリング
     ko = 카 셰어링
+    lv = Automašīnu koplietošana
     nb = Kjøre sammen
     nl = Autodelen
     pl = Współdzielenie samochodów
@@ -763,6 +781,7 @@
     it = Lavaggio auto
     ja = 洗車場
     ko = 세차
+    lv = Automazgātuve
     nb = Bilvask
     nl = Car wash
     pl = Myjnia samochodowa
@@ -793,6 +812,7 @@
     it = Casinò
     ja = カジノ
     ko = 카지노
+    lv = Kazino
     nb = Kasino
     pl = Kasyno
     pt = Casino
@@ -823,6 +843,7 @@
     it = Stazione di ricarica
     ja = 充電ステーション
     ko = 충전 역
+    lv = Uzlādes stacija
     nb = Ladestasjon
     nl = Oplaadstation
     pl = Stacja ładowania
@@ -855,6 +876,7 @@
     it = Asilo
     ja = 託児所
     ko = 보육
+    lv = Bērnistaba
     nb = Førskole
     nl = Crèche
     pl = Opieka nad dziećmi
@@ -886,6 +908,7 @@
     id = Bioskop
     ja = 映画館
     ko = 영화관
+    lv = Kinoteātris
     nb = Kino
     nl = Bioscoop
     pl = Kino
@@ -917,6 +940,7 @@
     it = Clinica
     ja = クリニック
     ko = 클리닉
+    lv = Klīnika
     nb = Klinikk
     nl = Kliniek
     pl = Klinika
@@ -948,6 +972,7 @@
     it = Collegio
     ja = カレッジ
     ko = 칼리지
+    lv = Koledža
     nb = Høyskole
     nl = Hogeschool
     pl = Szkoła wyższa
@@ -980,6 +1005,7 @@
     it = Centro ricreativo
     ja = コミュニティセンター
     ko = 커뮤니티센터
+    lv = Kultūras centrs
     nb = Samfunnshus
     nl = Wijkcentrum
     pl = Centrum społecznościowe
@@ -1012,6 +1038,7 @@
     it = Tribunale
     ja = 裁判所
     ko = 법원
+    lv = Tiesu nams
     nb = Domstol
     nl = Rechtbank
     pl = Sąd
@@ -1044,6 +1071,7 @@
     it = Dentista
     ja = 歯医者
     ko = 치과
+    lv = Zobārsts
     nb = Tannlege
     nl = Tandarts
     pl = Dentysta
@@ -1075,6 +1103,7 @@
     it = Studio medico
     ja = 医院
     ko = 개인병원
+    lv = Ārsts
     nb = Legekontor
     nl = Huisartsenpost
     pl = Lekarz
@@ -1106,6 +1135,7 @@
     it = Acqua potabile
     ja = 水飲み場
     ko = 음수대
+    lv = Dzeramais ūdens
     nb = Drikkevann
     nl = Drinkwater
     pl = Woda pitna
@@ -1138,6 +1168,7 @@
     it = Scuola guida
     ja = 自動車教習所
     ko = 운전학원
+    lv = Autoskola
     nb = Kjøreskole
     nl = Rijschool
     pl = Szkoła nauki jazdy
@@ -1170,6 +1201,7 @@
     it = Ambasciata
     ja = 大使館
     ko = 대사관
+    lv = Vēstniecība
     nb = Ambassade
     nl = Ambassade
     pl = Ambasada
@@ -1202,6 +1234,7 @@
     it = Fast food
     ja = ファストフード
     ko = 패스트 푸드
+    lv = Ātrā ēdināšana
     nb = Hurtigmat
     nl = Fast food
     pl = Fast food
@@ -1234,6 +1267,7 @@
     it = Traghetto
     ja = フェリー
     ko = 페리
+    lv = Prāmis
     nb = Ferje
     nl = Veerpont
     pl = Terminal promowy
@@ -1266,6 +1300,7 @@
     it = Scuadra antincendio
     ja = 消防署
     ko = 소방서
+    lv = Ugunsdzēsēju stacija
     nb = Brannstasjon
     nl = Brandweer
     pl = Straż pożarna
@@ -1309,6 +1344,7 @@
     it = Fontana
     ja = 噴水
     ko = 분수
+    lv = Strūklaka
     nb = Fontene
     nl = Fontein
     pl = Fontanna
@@ -1341,6 +1377,7 @@
     it = Stazione di rifornimento
     ja = ガソリンスタンド
     ko = 주유소
+    lv = Degvielas uzpildes stacija
     nb = Bensinstasjon
     nl = Tankstation
     pl = Stacja benzynowa
@@ -1375,6 +1412,7 @@
     it = Cimitero
     ja = 墓地
     ko = 묘소
+    lv = Kapsēta
     nb = Gravplass
     nl = Begraafplaats
     pl = Cmentarz
@@ -1416,6 +1454,7 @@
     it = Ospedale
     ja = 病院
     ko = 병원
+    lv = Slimnīca
     nb = Sykehus
     nl = Ziekenhuis
     pl = Szpital
@@ -1480,6 +1519,7 @@
     it = Chiosco gelati
     ja = アイスクリーム屋
     ko = 아이스크림 스탠드
+    lv = Saldējums
     nb = Iskrem
     nl = Ijsstand
     pl = Stoisko z lodami
@@ -1511,6 +1551,7 @@
     id = Kafe Internet
     ja = インターネットカフェ
     ko = 인터넷 카페
+    lv = Interneta kafejnīca
     nb = Internettkafé
     nl = Internetcafe
     pl = Kafejka internetowa
@@ -1541,6 +1582,7 @@
     it = Scuola materna
     ja = 幼稚園
     ko = 유치원
+    lv = Bērnudārzs
     nb = Barnehage
     nl = Kleuterschool
     pl = Przedszkole
@@ -1573,6 +1615,7 @@
     it = Biblioteca
     ja = 図書館
     ko = 도서관
+    lv = Bibliotēka
     nb = Bibliotek
     nl = Bibliotheek
     pl = Biblioteka
@@ -1605,6 +1648,7 @@
     it = Mercato
     ja = 市場
     ko = 시장
+    lv = Tirgus
     nb = Torg
     nl = Markt
     pl = Targ
@@ -1637,6 +1681,7 @@
     it = Parcheggio moto
     ja = バイク駐輪場
     ko = 오토바이 주차
+    lv = Motociklu stāvvieta
     nb = Motorsykkelparkering
     nl = Parking Motorfietsen
     pl = Parking motocyklowy
@@ -1669,6 +1714,7 @@
     it = Night club
     ja = ナイトクラブ
     ko = 나이트 클럽
+    lv = Naktsklubs
     nb = Nattklubb
     nl = Discotheek
     pl = Klub nocny
@@ -1701,6 +1747,7 @@
     it = Casa di riposo
     ja = 養護施設
     ko = 요양원
+    lv = Pansionāts
     nb = Sykehjem
     nl = Bejaardentehuis
     pl = Dom opieki
@@ -1733,6 +1780,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lv = Stāvvieta
     nb = Parkering
     nl = Parkeerplaats
     pt = Estacionamento
@@ -1764,6 +1812,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lv = Stāvvieta
     nb = Parkering
     nl = Parkeerplaats
     pl = Parking płatny
@@ -1796,6 +1845,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lv = Stāvvieta
     nb = Parkering
     nl = Parkeerplaats
     pl = Parking wielopoziomowy
@@ -1828,6 +1878,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lv = Stāvvieta
     nb = Parkering
     nl = Parkeerplaats
     pt = Estacionamento
@@ -1859,6 +1910,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lv = Stāvvieta
     nb = Parkering
     nl = Parkeerplaats
     pl = Parking "Parkuj i Jedź"
@@ -1891,6 +1943,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lv = Stāvvieta
     nb = Parkering
     nl = Parkeerplaats
     pl = Parking ograniczony
@@ -1923,6 +1976,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lv = Stāvvieta
     nb = Parkering
     nl = Parkeerplaats
     pl = Parking prywatny
@@ -1955,6 +2009,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lv = Stāvvieta
     nb = Parkering
     nl = Parkeerplaats
     pl = Parking podziemny
@@ -1988,6 +2043,7 @@
     it = Parcheggio
     ja = 駐車スペース
     ko = 주차장
+    lv = Stāvvieta
     nb = Parkeringsplass
     nl = Parkeerplaats
     pl = Miejsce parkingowe
@@ -2022,6 +2078,7 @@
     it = Parcheggio
     ja = 駐車スペース
     ko = 주차장
+    lv = Stāvvieta
     nb = Parkeringsplass
     nl = Parkeerplaats
     pl = Miejsce parkingowe
@@ -2056,6 +2113,7 @@
     it = Parcheggio
     ja = 駐車スペース
     ko = 주차장
+    lv = Stāvvieta
     nb = Parkeringsplass
     nl = Parkeerplaats
     pl = Miejsce parkingowe
@@ -2090,6 +2148,7 @@
     it = Parcheggio
     ja = 駐車スペース
     ko = 주차장
+    lv = Stāvvieta
     nb = Parkeringsplass
     nl = Parkeerplaats
     pl = Miejsce parkingowe
@@ -2123,6 +2182,7 @@
     it = Terminale di pagamento
     ja = 決済端末
     ko = 결제 단말기
+    lv = Maksājumu termināls
     nb = Betalingsterminal
     nl = Betaalautomaat
     pl = Wpłatomat
@@ -2155,6 +2215,7 @@
     it = Farmacia
     ja = 薬局
     ko = 약국
+    lv = Aptieka
     nb = Apotek
     nl = Apotheek
     pl = Apteka
@@ -2438,6 +2499,7 @@
     it = Polizia
     ja = 警察
     ko = 경찰
+    lv = Policija
     nb = Politi
     nl = Politie
     pl = Policja
@@ -2470,6 +2532,7 @@
     it = Casella
     ja = 郵便ポスト
     ko = 우편함
+    lv = Pastkaste
     nb = Postboks
     nl = Brievenbus
     pl = Skrzynka pocztowa
@@ -2503,6 +2566,7 @@
     it = Ufficio postale
     ja = 郵便局
     ko = 우체국
+    lv = Pasta nodaļa
     nb = Postkontor
     nl = Postkantoor
     pl = Urząd Pocztowy
@@ -2524,6 +2588,7 @@
     en = Prison
     de = Gefängnis
     ja = 刑務所
+    lv = Cietums
     pl = Więzienie
     pt = Prisão
     pt-BR = Presidiário
@@ -2571,6 +2636,7 @@
     it = Libreria
     ja = 街角文庫
     ko = 도서 교환
+    lv = Grāmatu apmaiņa
     nb = Bokhylle
     nl = Boekenkast
     pl = Wymiana książek
@@ -2603,6 +2669,7 @@
     it = Centro di riciclaggio
     ja = リサイクルセンター
     ko = 재활용센터
+    lv = Šķirošanas centrs
     nb = Resirkuleringssenter
     nl = Milieustraat
     pl = Centrum przetwórstwa odpadów
@@ -2636,6 +2703,7 @@
     it = Contenitore per materiali riciclabili
     ja = リサイクルボックス
     ko = 재활용 쓰레기통
+    lv = Šķirošanas konteiners
     nb = Gjenvinningsbeholder
     nl = Recycling container
     pl = Pojemnik do recyklingu
@@ -2674,6 +2742,7 @@
     it = Batterie
     ja = バッテリー
     ko = 배터리
+    lv = Baterijas
     nb = Batterier
     nl = Batterijen
     pl = Baterie
@@ -2708,6 +2777,7 @@
     it = Vestiti usati
     ja = 古着
     ko = 낡은 옷
+    lv = Vecās drēbes
     nb = Gamle klær
     nl = Oude kleding
     pl = Stare ubrania
@@ -2741,6 +2811,7 @@
     it = Contenitori in vetro
     ja = ガラス瓶
     ko = 유리병
+    lv = Stikla pudeles
     nb = Glassemballasje
     nl = Glazen flessen
     pl = Szkło
@@ -2774,6 +2845,7 @@
     it = Rifiuti in carta e cartone
     ja = 紙くず
     ko = 종이 쓰레기
+    lv = Makulatūra
     nb = Papiravfall
     nl = Papierafval
     pl = Makulatura
@@ -2807,6 +2879,7 @@
     it = Rifiuti in plastica
     ja = プラスチックごみ
     ko = 플라스틱 쓰레기
+    lv = Plastmasas atkritumi
     nb = Plastavfall
     nl = Plastic afval
     pl = Śmieci z plastiku
@@ -2840,6 +2913,7 @@
     it = Bottiglie di plastica
     ja = ペットボトル
     ko = 플라스틱 병
+    lv = Plastmasas pudeles
     nb = Plastflasker
     nl = Plastic flessen
     pl = Zbieranie plastikowych butelek
@@ -2873,6 +2947,7 @@
     it = Rifiuti metallici
     ja = スクラップ金属
     ko = 고철
+    lv = Metāllūžņi
     nb = Metallavfall
     nl = Schroot
     pl = Złom
@@ -2906,6 +2981,7 @@
     it = Rifiuti di apparecchiature elettriche ed elettroniche
     ja = 電子廃棄物
     ko = 전자제품 쓰레기
+    lv = Elektroniskie atkritumi
     nb = Elektronisk avfall
     nl = Elektronisch afval
     pl = Odpady elektryczne
@@ -2925,30 +3001,35 @@
   [type.recycling.cardboard]
     en = Cardboard
     be = Кардон
+    lv = Kartons
     ru = Картон
     uk = Картон
 
   [type.recycling.cans]
     en = Cans
     be = Бляшаныя банкі
+    lv = Skārda bundžas
     ru = Жестяные банки
     uk = Бляшані банки
 
   [type.recycling.shoes]
     en = Shoes
     be = Абутак
+    lv = Kurpes
     ru = Обувь
     uk = Взуття
 
   [type.recycling.green_waste]
     en = Green/Organic Waste
     be = Арганічныя адходы
+    lv = Organiskie atkritumi
     ru = Органические отходы
     uk = Органічні відходи
 
   [type.recycling.cartons]
     en = Cartons
     be = Тэтрапак і аналагі
+    lv = Tetrapakas
     ru = Тетрапак и аналоги
     uk = Тетрапак та аналоги
 
@@ -2965,6 +3046,7 @@
     it = Ristorante
     ja = レストラン
     ko = 레스토랑
+    lv = Restorāns
     pl = Restauracja
     pt = Restaurante
     pt-BR = Restaurante
@@ -3003,6 +3085,7 @@
     it = Scuola
     ja = 学校
     ko = 학교
+    lv = Skola
     nb = Skole
     pl = Szkoła
     pt = Escola
@@ -3033,6 +3116,7 @@
     it = Riparo
     ja = 避難所
     ko = 대피소
+    lv = Pajumte
     nb = Tilfluktsrom
     nl = Beschutting
     pl = Wiata
@@ -3065,6 +3149,7 @@
     it = Doccia
     ja = シャワー
     ko = 샤워시설
+    lv = Duša
     nb = Dusj
     nl = Douche
     pl = Prysznic
@@ -3090,6 +3175,7 @@
     id = Taksi
     ja = タクシー
     ko = 택시
+    lv = Taksometri
     nb = Drosje
     pl = Taksówka
     pt = Táxi
@@ -3117,6 +3203,7 @@
     it = Telefono
     ja = 公衆電話
     ko = 전화
+    lv = Tālrunis
     nb = Telefon
     nl = Telefoon
     pl = Telefon
@@ -3149,6 +3236,7 @@
     it = Teatro
     ja = 劇場
     ko = 연극
+    lv = Teātris
     nb = Teater
     nl = Theater
     pl = Teatr
@@ -3179,6 +3267,7 @@
     it = Toilette
     ja = トイレ
     ko = 화장실
+    lv = Tualete
     nb = Toalett
     pl = Toaleta
     pt = Casa de banho
@@ -3210,6 +3299,7 @@
     it = Municipio
     ja = 役場
     ko = 시청
+    lv = Rātsnams
     nb = Rådhus
     nl = Gemeentehuis
     pl = Ratusz
@@ -3242,6 +3332,7 @@
     it = Università
     ja = 大学
     ko = 대학
+    lv = Universitāte
     nb = Universitet
     nl = Universiteit
     pl = Uniwersytet
@@ -3263,6 +3354,7 @@
     de = Verkaufsautomat
     fr = Distributeur automatique
     ja = 自動販売機
+    lv = Tirdzniecības automāts
     pl = Automat sprzedający
     pt = Máquina de venda automática
     pt-BR = Máquina de venda automática
@@ -3317,6 +3409,7 @@
     it = Distributore automatico di bibite
     ja = 飲料自動販売機
     ko = 음료자동판매기
+    lv = Dzērienu automāts
     nb = Drikkeautomat
     nl = Drankautomaat
     pl = Automat z napojami
@@ -3349,6 +3442,7 @@
     it = Parcometro
     ja = 駐車券支払機
     ko = 주차티켓판매기
+    lv = Autostāvvietu biļetes
     nb = Parkeringsautomat
     nl = Betaalautomaat parkeergarage
     pl = Parkometr
@@ -3382,6 +3476,7 @@
     it = Distributore automatico biglietti di trasporto
     ja = 公共交通機関の券売機
     ko = 대중교통표 자동판매기
+    lv = Sabiedriskā transporta biļešu automāts
     nb = Billettmaskin for offentlig transport
     nl = Kaartjesautomaat voor openbaar vervoer
     pl = Automat biletowy do transportu publicznego
@@ -3415,6 +3510,7 @@
     it = Veterinario
     ja = 獣医
     ko = 동물병원
+    lv = Veterinārārsts
     nb = Veterinær
     nl = Dierenarts
     pl = Weterynarz
@@ -3447,6 +3543,7 @@
     it = Contenitore per rifiuti
     ja = ゴミ箱
     ko = 쓰레기통
+    lv = Atkritumu grozs
     nb = Søppelkasse
     nl = Vuilnisbak
     pl = Kosz na śmieci
@@ -3479,6 +3576,7 @@
     it = Spazzatura
     ja = ゴミ
     ko = 휴지통
+    lv = Atkritumu konteiners
     nb = Søppel
     nl = Uitschot
     pl = Wysypisko śmieci
@@ -3517,6 +3615,7 @@
     it = Distributore acqua
     ja = 給水所
     ko = 상수도
+    lv = Ūdens uzpildes punkts
     nb = Vannpunkt
     nl = Waterpunt
     pl = Ujęcie wody
@@ -3538,6 +3637,7 @@
     de = Barriere
     fr = Barrière
     ja = 障害物
+    lv = Barjera
     pl = Bariera
     pt = Barreira
     pt-BR = Barreira
@@ -3561,6 +3661,7 @@
     it = Blocco
     ja = ブロック
     ko = 블록
+    lv = Bloks
     nb = Blokk
     nl = Blok
     pl = Blok
@@ -3593,6 +3694,7 @@
     it = Pilastro
     ja = 柱
     ko = 기둥
+    lv = Stabs
     nb = Pullert
     nl = Pilaar
     pl = Słupek
@@ -3625,6 +3727,7 @@
     it = Controllo di frontiera
     ja = 国境管理
     ko = 국경통제소
+    lv = Robežkontrole
     nb = Grensekontroll
     nl = Grenscontrole
     pl = Kontrola graniczna
@@ -3646,6 +3749,7 @@
     be = Ланцуг
     de = Kette
     fr = Chaîne
+    lv = Ķēde
     ru = Цепь
     uk = Ланцюг
 
@@ -3654,6 +3758,7 @@
     de = Stadtmauer
     fr = Muraille
     ja = 城壁
+    lv = Pilsētas siena
     pl = Mur miejski
     pt = Muralha de cidade
     pt-BR = Muralha de cidade
@@ -3665,6 +3770,7 @@
     en = Cycle Barrier
     de = Umlaufschranke
     ja = バリカー
+    lv = Velosipēdu barjera
     pl = Bariera rowerowa
     pt = Barreira de bicicletas
     pt-BR = Barreira de bicicletas
@@ -3687,6 +3793,7 @@
     it = Ingresso
     ja = エントランス
     ko = 입구
+    lv = Ieeja
     nb = Inngangspassasje
     nl = Ingang
     pl = Wejście
@@ -3708,6 +3815,7 @@
     de = Zaun
     fr = Clôture
     ja = フェンス
+    lv = Sēta
     pl = Płot
     pt = Vedação
     pt-BR = Cerca
@@ -3731,6 +3839,7 @@
     it = Cancello
     ja = ゲート
     ko = 게이트
+    lv = Vārti
     nb = Port
     nl = Poort
     pl = Brama
@@ -3752,6 +3861,7 @@
     de = Hecke
     fr = Haie
     ja = 生垣
+    lv = Dzīvžogs
     pl = Żywopłot
     pt = Sebe
     pt-BR = Sebe
@@ -3775,6 +3885,7 @@
     it = Barriera ferroviaria
     ja = ブームバリア
     ko = 차량차단기
+    lv = Pacelšanās vārti
     nb = Bom
     nl = Slagboom
     pl = Szlaban
@@ -3796,6 +3907,7 @@
     de = Stützmauer
     fr = Mur de soutènement
     ja = 擁壁
+    lv = Balsta siena
     pl = Mur oporowy
     pt = Muro de retenção
     pt-BR = Muro de retenção
@@ -3818,6 +3930,7 @@
     it = Scaletta per recinzioni
     ja = 回転扉
     ko = 디딤대
+    lv = Šķērsvieta
     nb = Sperre
     nl = Tourniquet
     pl = Przełaz
@@ -3851,6 +3964,7 @@
     it = Barriera ferroviaria
     ja = ブームバリア
     ko = 차량차단기
+    lv = Šūpuļveida vārti
     nb = Bom
     nl = Slagboom
     pl = Szlaban
@@ -3883,6 +3997,7 @@
     it = Casello di pedaggio
     ja = 料金所
     ko = 톨게이트
+    lv = Ceļu nodevu kabīne
     nb = Bomstasjon
     nl = Tolhokje
     pl = Kasa
@@ -3904,6 +4019,7 @@
     de = Mauer
     fr = Mur
     ja = 壁
+    lv = Siena
     pl = Mur
     pt = Muro
     pt-BR = Muro
@@ -3915,6 +4031,7 @@
     en = Boundary
     de = Grenze
     ja = 境界線
+    lv = Robeža
     pl = Granica
     pt = Fronteira
     pt-BR = Fronteira
@@ -3926,6 +4043,7 @@
     en = Administrative Boundary
     de = Verwaltungsgrenze
     ja = 行政境界
+    lv = Administratīvā robeža
     pl = Granica administracyjna
     pt = Fronteira administrativa
     pt-BR = Fronteira administrativa
@@ -3974,6 +4092,7 @@
 
   [type.boundary.administrative.city]
     en = City Boundary
+    lv = 
     pl = Granica miasta
     pt = Fronteira de cidade
     pt-BR = Fronteira de cidade
@@ -3983,6 +4102,7 @@
 
   [type.boundary.administrative.country]
     en = National Border
+    lv = Valsts robeža
     pl = Granica państwa
     pt = Fronteira de país
     pt-BR = Fronteira de país
@@ -3992,6 +4112,7 @@
 
   [type.boundary.administrative.county]
     en = County Boundary
+    lv = Novada robeža
     pl = Granica hrabstwa
     pt = Fronteira de condado
     pt-BR = Fronteira de condado
@@ -4001,6 +4122,7 @@
 
   [type.boundary.administrative.municipality]
     en = Municipality Boundary
+    lv = Pašvaldības robeža
     pl = Granica gminy
     pt = Fronteira de município
     pt-BR = Fronteira de município
@@ -4014,6 +4136,7 @@
 
   [type.boundary.administrative.region]
     en = Regional Boundary
+    lv = Reģionālā robeža
     pl = Granica regionu
     pt = Fronteira de região
     pt-BR = Fronteira de região
@@ -4023,6 +4146,7 @@
 
   [type.boundary.administrative.state]
     en = State Boundary
+    lv = Štata robeža
     pl = Granica województwa
     pt = Fronteira de estado
     pt-BR = Fronteira de estado
@@ -4031,6 +4155,7 @@
 
   [type.boundary.administrative.suburb]
     en = Suburb Boundary
+    lv = Priekšpilsētas robeža
     pl = Granica przedmieść
     pt = Fronteira de subúrbio
     pt-BR = Fronteira de subúrbio
@@ -4055,6 +4180,7 @@
     it = Parco nazionale
     ja = 国立公園
     ko = 국립 공원
+    lv = Nacionālais parks
     nb = Nasonalpark
     nl = Nationaal park
     pl = Park narodowy
@@ -4088,6 +4214,7 @@
     it = Edificio
     ja = 建物
     ko = 건물
+    lv = Ēka
     nb = Bygning
     nl = Gebouw
     pl = Budynek
@@ -4120,6 +4247,7 @@
     it = Edificio
     ja = 建物
     ko = 건물
+    lv = Ēka
     nb = Bygning
     nl = Gebouw
     pl = Adres
@@ -4148,6 +4276,7 @@
     id = Garasi
     ja = 車庫
     ko = 차고
+    lv = Garāža
     nb = Verksted
     pl = Garaż
     pt = Garagem
@@ -4177,6 +4306,7 @@
     it = Edificio
     ja = 建物
     ko = 건물
+    lv = Ēka
     nb = Bygning
     nl = Gebouw
     pl = Część budynku
@@ -4209,6 +4339,7 @@
     it = Stazione ferroviaria
     ja = 鉄道駅
     ko = 기차역
+    lv = Vilcienu stacija
     nb = Togstasjon
     nl = Station
     pl = Dworzec kolejowy
@@ -4228,6 +4359,7 @@
   [type.building.warehouse]
     en = Warehouse
     fr = Entrepôt
+    lv = Noliktava
     pt = Armazém
     pt-BR = Armazém
     ru = Склад
@@ -4238,6 +4370,7 @@
     en = Craft
     fr = Artisanat
     ja = 工房
+    lv = Amatniecība
     pl = Rzemiosło
     pt = Ofícios
     pt-BR = Ofícios
@@ -4261,6 +4394,7 @@
     it = Birrificio
     ja = 醸造所
     ko = 양조장
+    lv = Alus darītava
     nb = Bryggeri
     nl = Brouwerij
     pl = Browar
@@ -4293,6 +4427,7 @@
     it = Falegname
     ja = 大工
     ko = 목수
+    lv = Galdnieks
     nb = Snekker
     nl = Timmerman
     pl = Stolarz
@@ -4325,6 +4460,7 @@
     it = Elettricista
     ja = 電気技師
     ko = 전기기술자
+    lv = Elektriķis
     nb = Elektriker
     nl = Elektricien
     pl = Elektryk
@@ -4356,6 +4492,7 @@
     it = Giardiniere
     ja = 造園家
     ko = 조경사
+    lv = Dārznieks
     nb = Anleggsgartner
     nl = Tuinarchitect
     pl = Ogrodnik
@@ -4386,6 +4523,7 @@
     it = Impianti HVAC
     ja = 冷暖房空調
     ko = 냉난방기
+    lv = Gaisa kondicionieri
     nb = Klimaanlegg
     nl = Airconditioning
     pl = Klimatyzacja
@@ -4417,6 +4555,7 @@
     it = Fabbro
     ja = 金属工
     ko = 금속공
+    lv = Metāla apstrādātājs
     nb = Metallarbeider
     nl = Metaalarbeider
     pl = Ślusarz, obrabiacz metalu
@@ -4449,6 +4588,7 @@
     it = Imbianchino
     ja = 塗装工
     ko = 페인트공
+    lv = Gleznotājs
     nb = Maler
     nl = Schilder
     pl = Malarz
@@ -4481,6 +4621,7 @@
     it = Fotografo
     ja = 写真家
     ko = 사진작가
+    lv = Fotogrāfs
     nb = Fotograf
     nl = Fotograaf
     pl = Studio fotograficzne
@@ -4513,6 +4654,7 @@
     it = Idraulico
     ja = 配管工
     ko = 배관공
+    lv = Santehniķis
     nb = Rørlegger
     nl = Loodgieter
     pl = Hydraulik
@@ -4545,6 +4687,7 @@
     it = Calzolaio
     ja = 靴修理
     ko = 구두수선
+    lv = Apavu remonts
     nb = Skoreparasjon
     nl = Schoenmaker
     pl = Szewc
@@ -4577,6 +4720,7 @@
     it = Sarto
     ja = 仕立て屋
     ko = 양복점
+    lv = Ateljē
     nb = Skredder
     nl = Kleermaker
     pl = Krawiec
