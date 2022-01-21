@@ -248,6 +248,7 @@
     it = Download in corso…
     ja = ダウンロード中…
     ko = 다운로드 중…
+    lv = Lejupielādē…
     nb = Laster ned …
     nl = Downloaden…
     pl = Pobieranie…
@@ -286,6 +287,7 @@
     it = Chilometri
     ja = キロメートル
     ko = 킬로미터
+    lv = Kilometri
     nb = Kilometer
     nl = Kilometers
     pl = Kilometry
@@ -323,6 +325,7 @@
     it = Lascia una recensione
     ja = 評価する
     ko = 평 남기기
+    lv = Uzrakstīt atsauksmi
     nb = Legg inn en vurdering
     nl = Laat een review achter
     pl = Napisz recenzję
@@ -360,6 +363,7 @@
     it = Mappe
     ja = マップ
     ko = 지도
+    lv = Kartes
     nb = Kart
     nl = Kaarten
     pl = Mapy
@@ -425,6 +429,7 @@
     it = Miglia
     ja = マイル
     ko = 마일
+    lv = Jūdzes
     nb = Miles
     nl = Mijlen
     pl = Mile
@@ -462,6 +467,7 @@
     it = La mia posizione
     ja = 現在地
     ko = 나의 위치
+    lv = Mana atrašanās vieta
     nb = Min posisjon
     nl = Mijn locatie
     pl = Moje położenie
@@ -499,6 +505,7 @@
     it = Più tardi
     ja = 次の機会に
     ko = 후
+    lv = Vēlāk
     nb = Senere
     pl = Później
     pt = Mais tarde
@@ -534,6 +541,7 @@
     it = Cerca
     ja = 検索
     ko = 검색하기
+    lv = Meklēt
     nb = Søk
     nl = Zoeken
     pl = Wyszukaj
@@ -571,6 +579,7 @@
     it = Cerca mappa
     ja = マップを検索
     ko = 지도 검색하기
+    lv = Meklēt kartē
     nb = Søk kart
     nl = Op de kaart zoeken
     pl = Wyszukaj mapy
@@ -608,6 +617,7 @@
     it = Sì
     ja = はい
     ko = 네
+    lv = Jā
     nb = Ja
     nl = Ja
     pl = Tak
@@ -645,6 +655,7 @@
     it = Attualmente tutti i servizi di localizzazione per questo dispositivo o applicazione sono disattivati. Si prega di abilitarli in Impostazioni.
     ja = 端末の位置情報サービスが無効になっているか、このアプリケーションからの位置情報利用が制限されています。端末の設定を有効化してください。
     ko = 현재 이 장치나 애플리케이션을 위한 전 위치 서비스를 불능시키셨습니다. 설정에서 이를 작동시켜 주시기 바랍니다.
+    lv = Pašlaik šajā ierīcē vai lietotnē visi atrašanās vietas pakalpojumi ir izslēgti. Lūdzu, ieslēdziet tos iestatījumos.
     nb = Du har for øyeblikket deaktivert alle posisjonstjenester for denne enheten eller applikasjonen. Slå dem på i «Innstillinger».
     nl = U heeft momenteel alle locatieservices voor dit apparaat of deze app uitgeschakeld. Schakel ze in bij Instellingen
     pl = Usługi lokalizacji są aktualnie wyłączone dla tego urządzenia lub aplikacji. Proszę włączyć je w ustawieniach.
@@ -681,6 +692,7 @@
     it = Mostra sulla mappa
     ja = 地図に表示
     ko = 지도에 표시
+    lv = Parādīt kartē
     nb = Vis på kartet
     nl = Op de kaart tonen
     pl = Wyświetl na mapie
@@ -718,6 +730,7 @@
     it = Scarica mappa
     ja = 地図をダウンロード
     ko = 지도 다운로드
+    lv = Lejupielādēt karti
     nb = Last ned kart
     nl = Kaart downloaden
     pl = Pobierz mapę
@@ -755,6 +768,7 @@
     it = Il download non è riuscito
     ja = のダウンロードに失敗しました
     ko = 다운로드에 실패하였습니다
+    lv = Lejupielāde neizdevās
     nb = Laster ned mislyktes
     nl = Downloaden is mislukt
     pl = Nie udało się pobrać
@@ -792,6 +806,7 @@
     it = Riprova
     ja = 再実行
     ko = 다시 시도
+    lv = Mēģināt atkal
     nb = Prøv på nytt
     nl = Opnieuw proberen
     pl = Spróbuj ponownie
@@ -828,6 +843,7 @@
     it = Informazioni su Organic Maps
     ja = Organic Mapsについて
     ko = 소개
+    lv = Par Organic Maps
     nb = Om Organic Maps
     nl = Over Organic Maps
     pl = O aplikacji Organic Maps
@@ -864,6 +880,7 @@
     it = Impostazioni di connessione
     ja = 接続設定
     ko = 연결 설정
+    lv = Savienojuma iestatījumi
     nb = Tilkoblingsinnstillinger
     nl = Verbindingsinstellingen
     pl = Ustawienia połączenia
@@ -900,6 +917,7 @@
     it = Chiudi
     ja = 閉じる
     ko = 닫기
+    lv = Aizvērt
     nb = Lukk
     nl = Sluiten
     pl = Zamknij
@@ -936,6 +954,7 @@
     it = È necessaria una accelerazione hardware OpenGL. Purtroppo, il tuo dispositivo non è supportato.
     ja = ハードウェアアクセラレーションされたOpenGLが必要です。残念ながらご利用中のデバイスではサポートされていません。
     ko = 하드웨어 촉진 OpenGL이 요구됩니다. 애석하게도 귀하의 장치는 지원되지 않습니다.
+    lv = Lietotnei ir nepieciešams aparatūras paātrināts OpenGL. Diemžēl jūsu ierīce nav atbalstīta.
     nb = En maskinvareakselerert OpenGL kreves. Dessverre støttes ikke enheten din.
     nl = Een hardware geaccellereerde OpenGL is nodig. Jammer genoeg wordt uw apparaat niet ondersteund.
     pl = Wymagana jest sprzętowa akceleracja OpenGL. Aktualne urządzenie nie jest obsługiwane.
@@ -972,6 +991,7 @@
     it = Scarica
     ja = ダウンロード
     ko = 다운로드
+    lv = Lejupielādēt
     nb = Last ned
     pl = Pobierz
     pt = Descarregar
@@ -1006,6 +1026,7 @@
     it = Si prega di scollegare il cavo USB o inserire la scheda di memoria per utilizzare Organic Maps
     ja = Organic Mapsを利用するにはUSBケーブルを抜くかメモリーカードを挿入してください
     ko = Organic Maps를 사용하려면 USB 케이블이나 삽입 메모리 카드를 분리하십시오
+    lv = Lūdzu, atvienojiet USB kabeli vai ievietojiet atmiņas karti, lai izmantotu Organic Maps
     nb = Koble fra USB-kabelen eller sett inn minnekortet for å bruke Organic Maps
     nl = Verwijder de USB kabel of plaats een geheugenkaart om Organic Maps te gebruiken
     pl = Proszę odłączyć kabel USB albo włożyć kartę pamięci, aby korzystać z Organic Maps
@@ -1042,6 +1063,7 @@
     it = Libera prima dello spazio sulla scheda Sd/ memoria USB per usare l'app
     ja = アプリを起動するにはSDカード/USBストレージの空き容量を確保する必要があります
     ko = 응용 프로그램을 사용하기 위해서는 첫째 SD 카드 / USB 저장 장치에 여유 공간을 확보하십시오
+    lv = Lai varētu lietot programmu, vispirms atbrīvojiet vietu atmiņas kartē/USB atmiņā.
     nb = Frigjør plass på SD-kortet/USB-enheten først for å bruke appen
     nl = Maak eerst ruimte vrij op de SD-kaart/USB-opslag om de app te gebruiken
     pl = Proszę zwolnić trochę pamięci na karcie SD/pamięci USB, aby korzystać z aplikacji
@@ -1078,6 +1100,7 @@
     it = Memoria insufficiente per lanciare l'app
     ja = メモリ不足のためアプリを起動できません
     ko = 응용 프로그램을 실행하기위한 메모리가 충분하지 않다
+    lv = Nepietiek atmiņas, lai palaistu lietotni
     nb = Ikke nok minne til å starte appen
     nl = Niet genoeg geheugen om de app te starten
     pl = Za mało pamięci, aby uruchomić aplikację
@@ -1114,6 +1137,7 @@
     it = Prima di iniziare è necessario scaricare la mappa generale del mondo sul tuo dispositivo.\nLa dimensione del download è di %@.
     ja = 利用を開始する前におおまかな世界地図をダウンロードします。これには%@の空き容量が必要です。
     ko = 시작하시기 전에 일반 세계 지도를 귀하의 장치로 다운로드하겠습니다.\n%@ 데이터가 필요합니다.
+    lv = Pirms sākat lietot lietotni, ļaujiet mums lejupielādēt vispārīgo pasaules karti jūsu ierīcē.\nTas izmantos %@ krātuves.
     nb = Før du begynner, la oss laste ned det generelle verdenskartet til enheten. Det trengs %@ med data.
     nl = Voordat u start, laten we de algemene wereldkaart naar uw apparaat downloaden.\nDeze neemt %@ in beslag.
     pl = Przed rozpoczęciem prosimy o pobranie ogólnej mapy świata na urządzenie.\nWymaga to %@ danych.
@@ -1150,6 +1174,7 @@
     it = Vai alla mappa
     ja = マップを表示
     ko = 지도로 이동
+    lv = Aiziet uz karti
     nb = Gå til kart
     nl = Ga naar de kaart
     pl = Przejdź do mapy
@@ -1186,6 +1211,7 @@
     it = Sto scaricando %@. Puoi ora\nprocedere con la mappa.
     ja = %@をダウンロードしました\nマップを表示可能です
     ko = %@다운로드. 이제지도를 진행할 수 있습니다.
+    lv = Lejupielādē %@. \nTagad varat izmantot karti.
     nb = Laster ned %@. Du kan nå\nfortsette til kartet.
     nl = %@ aan het downloaden. U kunt nu\ndoorgaan naar de kaart.
     pl = Pobieranie %@. Można teraz\nprzejść do mapy.
@@ -1222,6 +1248,7 @@
     it = Vuoi scaricare %@?
     ja = %@をダウンロードしますか？
     ko = %@다운로드?
+    lv = Lejupielādēt %@?
     nb = Vil du laste ned %@?
     nl = %@ downloaden?
     pl = Pobrać %@?
@@ -1258,6 +1285,7 @@
     it = Vuoi aggiornare %@?
     ja = %@を更新しますか？
     ko = %@업데이트?
+    lv = Atjaunot %@?
     nb = Vil du oppdatere %@?
     nl = %@ updaten?
     pl = Uaktualnić %@?
@@ -1295,6 +1323,7 @@
     it = Pausa
     ja = 一時停止
     ko = 중지
+    lv = Pauzēt
     nb = Pause
     nl = Pauzeren
     pl = Wstrzymaj
@@ -1332,6 +1361,7 @@
     it = Continua
     ja = 続行
     ko = 계속
+    lv = Turpināt
     nb = Fortsett
     nl = Doorgaan
     pl = Kontynuuj
@@ -1369,6 +1399,7 @@
     it = Il download di %@ non è riuscito
     ja = %@のダウンロードが失敗しました
     ko = %@다운로드가 실패했습니다
+    lv = %@ lejupielāde neizdevās
     nb = Nedlasting av %@ mislyktes
     nl = %@ download is mislukt
     pl = Nie udało się pobrać %@
@@ -1406,6 +1437,7 @@
     it = Aggiungi nuovo elenco
     ja = 新しいセットを作成
     ko = 새로운 세트 추가
+    lv = Pievienot jaunu sarakstu
     nb = Legg til nytt sett
     nl = Voeg nieuwe groep toe
     pl = Dodaj nowy zestaw
@@ -1444,6 +1476,7 @@
     it = Colore Luogo preferito
     ja = ブックマーク表示色
     ko = 색상 즐겨찾기에 추가
+    lv = Grāmatzīmes krāsa
     nb = Bokmerk farge
     nl = Bladwijzer-kleur
     pl = Kolor zakładki
@@ -1480,6 +1513,7 @@
     it = Nome dell'elenco
     ja = ブックマークセット名称
     ko = 집합 이름을 즐겨찾기에 추가
+    lv = Grāmatzīmju saraksta krāsa
     nb = Bokmerk settnavn
     nl = Naam van bladwijzergroep
     pl = Nazwa zestawu zakładek
@@ -1515,6 +1549,7 @@
     it = Elenchi di luoghi preferiti
     ja = ブックマークセット
     ko = 세트를 즐겨찾기에 추가
+    lv = Grāmatzīmju saraksti
     nb = Bokmerk sett
     nl = Bladwijzergroepen
     pl = Zestawy zakładek
@@ -1552,6 +1587,7 @@
     it = Luoghi preferiti
     ja = ブックマーク
     ko = 북마크
+    lv = Grāmatzīmes
     nb = Bokmerker
     nl = Bladwijzers
     pl = Zakładki
@@ -1589,6 +1625,7 @@
     it = I miei luoghi
     ja = マイロケーション
     ko = 내 장소
+    lv = Manas Vietas
     nb = Mine steder
     nl = Mijn plaatsen
     pl = Moje miejsca
@@ -1626,6 +1663,7 @@
     it = Nome
     ja = 名称
     ko = 이름
+    lv = Nosaukums
     nb = Navn
     nl = Naam
     pl = Nazwa
@@ -1663,6 +1701,7 @@
     it = Indirizzo
     ja = 住所
     ko = 주소
+    lv = Adrese
     nb = Adresse
     nl = Adres
     pl = Adres
@@ -1700,6 +1739,7 @@
     it = Elenco
     ja = 一覧
     ko = 목록
+    lv = Saraksts
     nb = Liste
     nl = Lijst
     pl = Lista
@@ -1737,6 +1777,7 @@
     it = Impostazioni
     ja = 設定
     ko = 설정
+    lv = Iestatījumi
     nb = Innstillinger
     nl = Instellingen
     pl = Ustawienia
@@ -1773,6 +1814,7 @@
     it = Salva mappe in
     ja = 地図の保存先
     ko = 지도 저장 위치:
+    lv = Saglabāt karti
     nb = Lagre kart på
     nl = Kaarten opslaan in
     pl = Zapisz mapy do
@@ -1811,6 +1853,7 @@
     it = Seleziona il luogo in cui le mappe devono essere scaricate
     ja = マップのダウンロード先を選択してください
     ko = 지도가 다운로드될 곳을 선택합니다
+    lv = Izvēlieties vietu, kur lejupielādēt kartes.
     nb = Velg hvor du vil at kartene skal lastes ned til
     nl = Selecteer de plaats waar kaarten naar gedownload zouden moeten worden
     pl = Określa położenie przechowywania pobranych map
@@ -1848,6 +1891,7 @@
     it = Vuoi spostare le mappe?
     ja = マップを移動させますか？
     ko = 지도를 이동합니까?
+    lv = Pārvietot kartes?
     nb = Flytt kart?
     nl = Kaarten verplaatsen?
     pl = Przenieść mapy?
@@ -1885,6 +1929,7 @@
     it = Questo può richiedere diversi minuti.\nAttendere prego…
     ja = 数分かかる場合があります。\nしばらくお待ち下さい…
     ko = 이 작업은 수 분 소요될 수 있습니다.\n잠시 기다리세요…
+    lv = Šis var aizņemt vairākas minūtes.\nLūdzu uzgaidiet…
     nb = Dette kan ta flere minutter. Vent et øyeblikk …
     nl = Dit kan enkele minuten duren.\nEven geduld…
     pl = To może zająć kilka minut.\nProszę czekać…
@@ -1922,6 +1967,7 @@
     it = Unità di misura
     ja = 距離計測単位
     ko = 측정 단위
+    lv = Mērvienības
     nb = Måleenheter
     nl = Afstandseenheid
     pl = Jednostki miary
@@ -1960,6 +2006,7 @@
     it = Scegli tra miglia e chilometri
     ja = マイルまたはキロメートルを選択
     ko = 마일과 킬로미터 중에서 선택하십시오
+    lv = Izvēlieties jūdzes un kilometrus
     nb = Velg mellom miles og kilometer
     nl = Kies tussen mijlen en kilometers
     pl = Wybiera pomiędzy milami, a kilometrami
@@ -1998,6 +2045,7 @@
     it = Dove mangiare
     ja = 食事場所
     ko = 어디서먹을까
+    lv = Kur paēst
     nb = Spisesteder
     nl = Waar iets gaan eten
     pl = Gdzie zjeść
@@ -2035,6 +2083,7 @@
     it = Alimentari
     ja = 食料雑貨
     ko = 식료품들
+    lv = Produkti
     nb = Dagligvarer
     nl = Kruidenierswinkels
     pl = Produkty
@@ -2073,6 +2122,7 @@
     it = Trasporto
     ja = 交通機関
     ko = 수송
+    lv = Transports
     nb = Transport
     nl = Transport
     pl = Transport
@@ -2111,6 +2161,7 @@
     it = Benzinaio
     ja = ガソリンスタンド
     ko = 연료
+    lv = Degviela
     nb = Drivstoff
     nl = Benzine
     pl = Stacja benzynowa
@@ -2148,6 +2199,7 @@
     it = Parcheggio
     ja = 駐車場
     ko = 주차
+    lv = Stāvvietas
     nb = Parkering
     nl = Parkeerplaats
     pl = Parking
@@ -2184,6 +2236,7 @@
     it = Negozi
     ja = ショッピング
     ko = 쇼핑
+    lv = Iepirkšanās
     nb = Shopping
     nl = Winkelen
     pl = Shopping
@@ -2222,6 +2275,7 @@
     it = Albergo
     ja = ホテル
     ko = 호텔
+    lv = Viesnīca
     nb = Hotell
     nl = Hotel
     pl = Hotel
@@ -2259,6 +2313,7 @@
     it = Luoghi turistici
     ja = 観光
     ko = 관광
+    lv = Apskates objekti
     nb = Severdigheter
     nl = Bezienswaardigheden
     pl = Atrakcje turystyczne
@@ -2296,6 +2351,7 @@
     it = Divertimento
     ja = エンターテイメント
     ko = 엔터테인먼트
+    lv = Izklaide
     nb = Underholdning
     nl = Amusement
     pl = Rozrywka
@@ -2333,6 +2389,7 @@
     it = Bancomat
     ja = ATM
     ko = ATM
+    lv = Bankomāts
     nb = Minibank
     nl = Geldautomaat
     pl = Bankomat
@@ -2369,6 +2426,7 @@
     it = Vita notturna
     ja = ナイトライフ
     ko = 유흥
+    lv = Nakts dzīve
     nb = Nattliv
     nl = Nachtleven
     pl = Życie nocne
@@ -2406,6 +2464,7 @@
     it = Tempo libero
     ja = 家族の休日
     ko = 가족 기념일
+    lv = Ģimenes atpūta
     nb = Familieferie
     nl = Gezinsvakantie
     pl = Wypoczynek z dziećmi
@@ -2444,6 +2503,7 @@
     it = Banca
     ja = 銀行
     ko = 은행
+    lv = Banka
     nb = Bank
     nl = Bank
     pl = Bank
@@ -2481,6 +2541,7 @@
     it = Farmacia
     ja = 薬局
     ko = 약국
+    lv = Aptieka
     nb = Apotek
     nl = Apotheek
     pl = Apteka
@@ -2518,6 +2579,7 @@
     it = Ospedale
     ja = 病院
     ko = 병원
+    lv = Slimnīca
     nb = Sykehus
     nl = Ziekenhuis
     pl = Szpital
@@ -2556,6 +2618,7 @@
     it = Toilette
     ja = トイレ
     ko = 화장실
+    lv = Tualete
     nb = Toalett
     nl = Toilet
     pl = Toaleta
@@ -2593,6 +2656,7 @@
     it = Posta
     ja = 郵便局
     ko = 우편
+    lv = Pasts
     nb = Post
     nl = Post
     pl = Poczta
@@ -2630,6 +2694,7 @@
     it = Polizia
     ja = 警察
     ko = 치안대
+    lv = Policija
     nb = Politi
     nl = Politie
     pl = Policja
@@ -2667,6 +2732,7 @@
     it = Informazioni
     ja = メモ
     ko = 메모
+    lv = Piezīmes
     nb = Merknader
     nl = Notities
     pl = Notatki
@@ -2703,6 +2769,7 @@
     it = Questi sono i miei luoghi preferiti
     ja = Organic Mapsの位置情報シェア
     ko = 귀하와 공유된 Organic Maps 즐겨찾기
+    lv = Organic Maps grāmatzīmes tika kopīgotas ar jums
     nb = Delte Organic Maps-bokmerker
     nl = Bladwijzers van Organic Maps met u gedeeld
     pl = Udostępnione zakładki z Organic Maps
@@ -2756,6 +2823,7 @@
     it = Caricamento luoghi preferiti
     ja = ブックマークの読み込み中
     ko = 즐겨찾기 로드
+    lv = Ielādē grāmatzīmes
     nb = Laster inn bokmerker
     nl = Bladwijzers worden geladen
     pl = Wczytywanie zakładek
@@ -2793,6 +2861,7 @@
     it = Luoghi preferiti caricati con successo! Puoi trovarli sulla mappa o nella schermata "Gestione Luoghi preferiti".
     ja = ブックマークが読み込まれました! ブックマークはマップ上、またはブックマーク管理画面に表示されます。
     ko = 즐겨찾기가 성공적으로 로드되었습니다! 지도 또는 즐겨찾기 관리자 화면에서 찾으실 수 있습니다.
+    lv = Grāmatzīmes ielādētas veiksmīgi! Tās var atrast kartē vai grāmatzīmju pārvaldīšanas sadaļā.
     nb = Bokmerkene ble lastet inn! Du finner dem på kartet eller på skjermen «Bokmerkeadministrasjon».
     nl = Bladwijzers succesvol geüpload! U vindt ze op de kaart of op het scherm van de Bladwijzer Manager.
     pl = Wczytano zakładki! Można odnaleźć je na mapie lub na ekranie menedżera zakładek.
@@ -2830,6 +2899,7 @@
     it = Caricamento dei luoghi preferiti non riuscito. Il file potrebbe essere corrotto o difettoso.
     ja = ブックマークのアップロードに失敗しました。ファイルが破損していた、または問題があった可能性があります。
     ko = 즐겨찾기 업로드가 실패했습니다. 파일이 훼손되었거나 결함이 있을지도 모릅니다.
+    lv = Grāmatzīmju augšupielāde neizdevās. Iespējams, fails ir bojāts vai nederīgs.
     nb = Opplasting av bokmerker mislyktes. Filen kan være skadet eller defekt.
     nl = Bladwijzers uploaden is mislukt. Het bestand is mogelijk beschadigd of defect.
     pl = Nieudane wczytywanie zakładek. Plik może być uszkodzony lub posiadać defekty.
@@ -2866,6 +2936,7 @@
     id = Edit
     it = Modifica
     ko = 편집
+    lv = Rediģēt
     nb = Rediger
     nl = Wijzigen
     pl = Edytuj
@@ -2903,6 +2974,7 @@
     it = La tua posizione non è stata ancora stabilita
     ja = 現在の座標が未確定です
     ko = 귀하의 위치를 아직 알아내지 못 했습니다
+    lv = Jūsu atrašanās vieta vēl nav noteikta
     nb = Posisjonen din har ikke blitt fastslått enda
     nl = Je locatie is nog niet vastgesteld
     pl = Nie określono jeszcze aktualnego położenia
@@ -2940,6 +3012,7 @@
     it = Le impostazioni di archiviazione delle mappe sono disabilitate.
     ja = 恐れ入ります、マップストレージ設定が無効になっています。
     ko = 죄송합니다, 지도 스토리지 설정이 비활성화되어 있습니다.
+    lv = Atvainojiet, kartes saglabāšanas iestatījumi pašlaik ir izslēgti.
     nb = Beklager, innstillingene for kartlagring er for øyeblikket deaktivert.
     nl = Sorry, instellingen voor kaartopslag zijn momenteel uitgeschakeld.
     pl = Przepraszamy, ustawienia pamięci mapy są aktualnie wyłączone.
@@ -2977,6 +3050,7 @@
     it = Il download della mappa è in corso.
     ja = ダウンロードを実行中です
     ko = 국가 다운로드가 지금 진행 중입니다.
+    lv = Pašlaik notiek kartes lejupielāde.
     nb = Nedlasting av land pågår nå.
     nl = Het downloaden van het land is nu aan de gang.
     pl = Trwa pobieranie mapy kraju.
@@ -3013,6 +3087,7 @@
     it = Guarda la mia posizione in Organic Maps! %1$@ o %2$@ Non hai scaricato l'app? La puoi scaricare da qui: https://omaps.app/get
     ja = 私は今ここにいます。リンク: %1$@, %2$@
     ko = 현재 위치를 알아 보십시오. %1$@ 또는 %2$@ 열기
+    lv = Apskatiet šo atrašanās vietu ar Organic Maps! %1$@ vai %2$@ Jums nav bezsaistes kartes? Lejupielādējiet šeit: https://omaps.app/get
     nb = Hei, se posisjonen min på Organic Maps! %1$@ eller %2$@ Har du ikke offline-kart? Last dem ned her: https://omaps.app/get
     nl = Hey, kijk naar mijn huidige locatie op Organic Maps! %1$@ of %2$@ Heeft u geen offline-kaarten? Download ze hier: https://omaps.app/get
     pl = Zobacz gdzie jestem. Link %1$@ lub %2$@
@@ -3049,6 +3124,7 @@
     it = Puoi vedere il mio luogo preferito sulla mappa Organic Maps!
     ja = Organic Mapsでピン情報を確認
     ko = Organic Maps 지도에서 내 핀 보기
+    lv = Apskatiet manu piespraudi ar Organic Maps!
     nb = Hei, se merket mitt på Organic Maps-kartet
     nl = Hey, kijk naar mijn pin op Organic Maps!
     pl = Obejrzyj mój znacznik na mapie w Organic Maps
@@ -3085,6 +3161,7 @@
     it = Guarda dove mi trovo attualmente sulla mappa Organic Maps!
     ja = Organic Mapsで現在地を確認
     ko = Organic Maps 지도에서 제 현재 위치를 살펴 보시기 바랍니다
+    lv = Apskatiet manu pašreizējo atrašanās vietu Organic Maps kartē!
     nb = Hei, se posisjonen min på Organic Maps-kartet!
     nl = Hey, kijk naar mijn huidige locatie op Organic Maps!
     pl = Zobacz moją aktualną lokalizację na mapie przy użyciu Organic Maps
@@ -3121,6 +3198,7 @@
     it = Ciao,\n\nSono qui adesso: %1$@. Clicca su questo link %2$@ oppure su questo %3$@ per vedere il posto sulla mappa.\n\nGrazie.
     ja = 私は今ここにいます: %1$@\n\nリンクをクリックすると詳細がマップに表示されます。\n\n%2$@\n\n%3$@
     ko = 안녕하세요.\n\n지금 다음 위치에 있습니다: %1$@. %2$@ 또는 %3$@ 링크를 클릭하여 지도상에서 해당 장소를 살펴보시기 바랍니다.\n\n감사합니다.
+    lv = Sveiki,\n\nEsmu šeit tagad: %1$@. Spiediet šo saiti %2$@ vai šo %3$@, lai redzētu vietu kartē.\n\nPateicos.
     nb = Hei,Jeg er her nå: %1$@. Klikk på denne koblingen %2$@ eller denne %3$@ for å se stedet på kartet.\n\nTakk.
     nl = Hoi,\n\nMomenteel ben ik hier: %1$@. Klik op deze %2$@ link of deze %3$@ link om de plaats op de kaart te zien.\n\nBedankt.
     pl = Cześć,\n\nJestem teraz tutaj: %1$@. Naciśnij na ten link %2$@ lub ten %3$@, aby zobaczyć to miejsce na mapie.\n\nDziękuję.
@@ -3158,6 +3236,7 @@
     it = Condividi
     ja = 共有
     ko = 공유
+    lv = Kopīgot
     nb = Del
     nl = Delen
     pl = Udostępnij
@@ -3194,6 +3273,7 @@
     it = E-mail
     ja = Eメール
     ko = 이메일
+    lv = E-pasts
     nb = E-post
     nl = E-mail
     pl = Email
@@ -3231,6 +3311,7 @@
     it = Copiato in appunti: %1$@
     ja = クリップボードにコピーしました: %1$@
     ko = 클립보드에 복사됨: %1$@
+    lv = Kopēts starpliktuvē: %1$@
     nb = Kopiert til utklippstavlen: %1$@
     nl = Naar het klembord gekopieerd: %1$@
     pl = Skopiowano do schowka: %1$@
@@ -3268,6 +3349,7 @@
     it = Info
     ja = 情報
     ko = 정보
+    lv = Informācija
     nb = Informasjon
     nl = Info
     pl = Informacje
@@ -3305,6 +3387,7 @@
     it = Fatto
     ja = 完了
     ko = 완료
+    lv = Gatavs
     nb = Ferdig
     nl = Klaar
     pl = Gotowe
@@ -3342,6 +3425,7 @@
     it = Versione: %@
     ja = バージョン： %@
     ko = 버전: %@
+    lv = Versija: %@
     nb = Versjon: %@
     nl = Versie: %@
     pl = Wersja: %@
@@ -3370,6 +3454,7 @@
     fa = ورژن داده: %d
     fr = Version des données: %d
     it = Versione: %d
+    lv = Datu versija: %d
     nl = Gegevensversie: %d
     pl = Wersja danych: %d
     pt = Versão dos dados: %d
@@ -3401,6 +3486,7 @@
     it = Sei sicuro di voler continuare?
     ja = 本当に続けますか?
     ko = 계속하겠습니까?
+    lv = Vai esat pārliecināts, ka vēlaties turpināt?
     nb = Er du sikker på at du ønsker å fortsette?
     nl = Weet u zeker dat u wilt doorgaan?
     pl = Kontynuować?
@@ -3438,6 +3524,7 @@
     it = Percorsi
     ja = トラック
     ko = 트랙
+    lv = Trases
     nb = Ruter
     nl = Tracks
     pl = Trasy
@@ -3475,6 +3562,7 @@
     it = Lunghezza
     ja = 距離
     ko = 길이
+    lv = Garums
     nb = Lengde
     nl = Lengte
     pl = Długość
@@ -3511,6 +3599,7 @@
     it = Condividi la mia posizione
     ja = 位置情報を共有する
     ko = 내 위치 공유
+    lv = Kopīgot manu atrašanās vietu
     nb = Del posisjonen min
     nl = Deel mijn locatie
     pl = Udostępnij aktualne położenie
@@ -3539,6 +3628,7 @@
     fi = Yleiset asetukset
     fr = Paramètres généraux
     it = Opzioni generali
+    lv = Vispārīgie iestatījumi
     nl = Algemene instellingen
     pl = Ustawienia ogólne
     pt = Configurações gerais
@@ -3561,6 +3651,7 @@
     fi = Tietoja
     fr = Information
     it = Informazioni
+    lv = Informācija
     nl = Informatie
     pl = Informacje
     pt = Informação
@@ -3590,6 +3681,7 @@
     it = Navigazione
     ja = ナビゲーション
     ko = 네비게이션
+    lv = Navigācija
     nb = Navigasjon
     nl = Navigatie
     pl = Nawigacja
@@ -3626,6 +3718,7 @@
     it = Pulsanti per lo zoom
     ja = ズームボタン
     ko = 확대/축소 버튼
+    lv = Tālummaiņas pogas
     nb = Zoom-knapper
     nl = Zoomknoppen
     pl = Przyciski przybliżania
@@ -3662,6 +3755,7 @@
     it = Mostra sulla mappa
     ja = 画面上に表示
     ko = 화면에 표시
+    lv = Parādīt kartē
     nb = Vis på skjermen
     nl = Weergave op het scherm
     pl = Wyświetla na ekranie
@@ -3698,6 +3792,7 @@
     it = Modalità notturna
     ja = 夜間モード
     ko = 나이트 모드
+    lv = Nakts režīms
     nb = Nattmodus
     nl = Nachtmodus
     pl = Tryb nocny
@@ -3734,6 +3829,7 @@
     it = Spento
     ja = オフ
     ko = 끄기
+    lv = Izslēgts
     nb = Av
     nl = Uit
     pl = Wyłączony
@@ -3770,6 +3866,7 @@
     it = Acceso
     ja = オン
     ko = 켜기
+    lv = Ieslēgts
     nb = På
     nl = Aan
     pl = Włączony
@@ -3806,6 +3903,7 @@
     it = Automatico
     ja = 自動
     ko = 자동
+    lv = Automātisks
     nb = Auto
     nl = Automatisch
     pl = Automatycznie
@@ -3842,6 +3940,7 @@
     it = Vista in prospettiva
     ja = パースペクティブ表示
     ko = 원근 보기
+    lv = Perspektīva skats
     nb = Perspektivvisning
     nl = Perspectiefbeeld
     pl = Widok z perspektywy
@@ -3878,6 +3977,7 @@
     it = Edifici 3D
     ja = 3Dビルディング
     ko = 주변 건물 3D
+    lv = 3D ēkas
     nb = Bygninger i 3D
     nl = 3D-gebouwen
     pl = Budynki w 3D
@@ -3914,6 +4014,7 @@
     it = Istruzioni vocali
     ja = 音声指示
     ko = 음성 지침
+    lv = Balss instrukcijas
     nb = Taleinstrukser
     nl = Gesproken instructies
     pl = Komunikaty głosowe
@@ -3950,6 +4051,7 @@
     it = Lingua per la voce
     ja = 音声言語
     ko = 음성 언어
+    lv = Balss valoda
     nb = Talespråk
     nl = Gesproken taal
     pl = Język komunikatów
@@ -3986,6 +4088,7 @@
     it = Non disponibile
     ja = 利用不可
     ko = 사용할 수 없음
+    lv = Nav pieejams
     nb = Ikke tilgjengelig
     nl = Niet beschikbaar
     pl = Niedostępne
