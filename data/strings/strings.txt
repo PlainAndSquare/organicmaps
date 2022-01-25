@@ -4125,6 +4125,7 @@
     it = Altro
     ja = その他
     ko = 다른 언어
+    lv = Cits
     nb = Andre
     nl = Andere
     pl = Inny
@@ -4161,6 +4162,7 @@
     it = Percorso recente
     ja = 最近の移動経路
     ko = 최근 추적
+    lv = Jauns ceļš
     nb = Siste rute
     nl = Recente track
     pl = Ostatnia trasa
@@ -4196,6 +4198,7 @@
     it = Zoom automatico
     ja = 自動ズーム
     ko = 자동 줌
+    lv = Automātiska tālummaiņa
     nb = Automatisk zooming
     nl = Automatisch zoomen
     pl = Automatyczne powiększanie
@@ -4231,6 +4234,7 @@
     it = Spento
     ja = オフ
     ko = 선택 안 함
+    lv = Izslēgts
     nb = Av
     nl = Uit
     pl = Wyłączona
@@ -4266,6 +4270,7 @@
     it = 1 ora
     ja = 1時間
     ko = 1시간
+    lv = 1 stunda
     nb = 1 time
     nl = 1 uur
     pl = 1 godzina
@@ -4301,6 +4306,7 @@
     it = 2 ore
     ja = 2時間
     ko = 2시간
+    lv = 2 stundas
     nb = 2 timer
     nl = 2 uur
     pl = 2 godziny
@@ -4336,6 +4342,7 @@
     it = 6 ore
     ja = 6時間
     ko = 6시간
+    lv = 6 stundas
     nb = 6 timer
     nl = 6 uur
     pl = 6 godzin
@@ -4371,6 +4378,7 @@
     it = 12 ore
     ja = 12時間
     ko = 12시간
+    lv = 12 stundas
     nb = 12 timer
     nl = 12 uur
     pl = 12 godzin
@@ -4406,6 +4414,7 @@
     it = 1 giorno
     ja = 1日
     ko = 1일
+    lv = 1 diena
     nb = 1 dag
     nl = 1 dag
     pl = 1 dzień
@@ -4441,6 +4450,7 @@
     it = Consente di registrare il percorso effettuato in un determinato periodo di tempo e di vederlo sulla mappa. Nota: l'attivazione di questa funzione incrementa l'uso della batteria. Il percorso viene rimosso automaticamente dalla mappa allo scadere dell'intervallo di tempo.
     ja = 移動経路を一定期間記録し、地図上で確認できるようにします。注意：この機能を有効にすると、バッテリーの消費量が増えます。表示期間が終了すると、走行軌跡は地図から自動的に削除されます。
     ko = 특정 기간 동안 이동된 경로를 기록하고 지도에서 그 경로를 볼 수 있습니다. 참고: 이 기능을 활성화하면 배터리 사용량이 증가하게 됩니다. 시간 간격이 만료된 후 지도에서 해당 트랙이 자동으로 제거됩니다.
+    lv = Šī opcija ļauj reģistrēt noteiktā laikā posmā nobraukto ceļu un redzēt to kartē. Lūdzu, ņemiet vērā: šīs funkcijas aktivizēšana palielina akumulatora enerģijas patēriņu. Pēc laika intervāla beigām ceļš tiks automātiski noņemts no kartes.
     nb = Det lar deg lagre ruten du har reist i en spesifikk periode og se den på kartet. Merk: Aktivering av funksjonen øker batteriforbruket. Ruten fjernes automatisk fra kartet når tidsintervallet utløper.
     nl = Dit laat u toe het afgelegde traject voor een bepaalde periode te registreren en te bekijken op de kaart. Merk op: activatie van deze functie veroorzaakt een hoger batterijverbruik. Het traject wordt automatisch van de kaart verwijderd nadat het tijdsinterval verloopt.
     pl = Umożliwia na pewien okres zapisanie przebytej trasy i obejrzenie jej na mapie. Uwaga: włączenie tej funkcji spowoduje większe zużycie baterii. Trasa zostanie usunięta z mapy automatycznie po upływie określonego czasu.
@@ -4476,6 +4486,7 @@
     it = Distanza
     ja = 距離
     ko = 거리
+    lv = Attālums
     nb = Avstand
     nl = Afstand
     pl = Dystans
@@ -4512,6 +4523,7 @@
     it = Visualizza sulla mappa
     ja = 地図に表示
     ko = 지도 보기
+    lv = Skatīt kartē
     nb = Vis på kartet
     nl = Op kaart bekijken
     pl = Wyświetl na mapie
@@ -4548,6 +4560,7 @@
     it = Sito web
     ja = ウェブサイト
     ko = 웹사이트
+    
     nb = Nettside
     nl = Website
     pl = Strona internetowa
@@ -4629,6 +4642,7 @@
     it = Feedback
     ja = フィードバック
     ko = 피드백
+    lv = Atsauksmes
     nb = Tilbakemelding
     nl = Feedback
     pl = Opinia
@@ -4666,6 +4680,7 @@
     it = Vota l'app
     ja = アプリを評価
     ko = 앱 평가
+    lv = Novērtērt lietotni
     nb = Ranger appen
     nl = App beoordelen
     pl = Oceń aplikację
@@ -4703,6 +4718,7 @@
     it = Aiuto
     ja = ヘルプ
     ko = 도움말
+    lv = Palīdzība
     nb = Hjelp
     nl = Hulp
     pl = Pomoc
@@ -4740,6 +4756,7 @@
     it = Domande frequenti
     ja = 質問と回答
     ko = 질문과 답변
+    lv = Bieži uzdotie jautājumi
     nb = Spørsmål og svar
     nl = Vragen en antwoorden
     pl = Pytania i odpowiedzi
@@ -4778,6 +4795,7 @@
     it = Come sostenerci?
     ja = どのように私たちを支持する方法？
     ko = 우리를 지원하는 방법?
+    lv = Kā mūs atbalstīt?
     nb = Hvordan støtte oss?
     nl = Hoe ons te steunen?
     pl = Jak nas wspierać?
@@ -4815,6 +4833,7 @@
     it = Copyright
     ja = 著作権
     ko = 저작권
+    lv = Autortiesības
     nb = Opphavsrett
     nl = Auteursrechten
     pl = Prawa autorskie
@@ -4852,6 +4871,7 @@
     it = Segnala un errore
     ja = バグを報告
     ko = 오류 신고
+    lv = Ziņot par kļūdu
     nb = Rapporter en feil
     nl = Meld een fout
     pl = Zgłoś błąd
@@ -4963,6 +4983,7 @@
     it = Calibrazione bussola
     ja = コンパスの調整
     ko = 나침반 보정
+    lv = Kompasa kalibrācija
     nb = Kompasskalibrering
     nl = Kompascalibratie
     pl = Kalibracja kompasu
@@ -4999,6 +5020,7 @@
     it = Wi-Fi
     ja = 無線LAN
     ko = WiFi 인터넷
+    lv = WiFi
     nb = WiFi
     nl = WiFi
     pl = WiFi
@@ -5034,6 +5056,7 @@
     it = Aggiorna tutte
     ja = 全てをアップデート
     ko = 모두 업데이트
+    lv = Atjaunināt visu
     nb = Oppdater alle
     nl = Update alles
     pl = Aktualizuj wszystkie
@@ -5071,6 +5094,7 @@
     it = Annulla tutto
     ja = すべてキャンセル
     ko = 모두 취소
+    lv = Atcelt visu
     nb = Avbryt alle
     nl = Alles annuleren
     pl = Anuluj wszystko
@@ -5107,6 +5131,7 @@
     it = Scaricate
     ja = ダウンロード済み
     ko = 다운로드
+    lv = Lejuplādēts
     nb = Lastet ned
     nl = Gedownload
     pl = Pobrane
@@ -5142,6 +5167,7 @@
     it = Disponibile
     ja = 利用可能
     ko = 사용 가능
+    lv = Pieejams
     nb = Tilgjengelig
     nl = Beschikbaar
     pl = Dostępne
@@ -5179,6 +5205,7 @@
     it = In coda
     ja = 待ち行列型の
     ko = 대기
+    lv = Rindā
     nb = Lagt i kø
     nl = In de wachtrij
     pl = W kolejce
@@ -5214,6 +5241,7 @@
     it = Vicino a me
     ja = 付近
     ko = 내 근처
+    lv = Blakus man
     nb = I nærheten
     nl = Bij mij in de buurt
     pl = Blisko mnie
@@ -5249,6 +5277,7 @@
     it = Mappe
     ja = 地図
     ko = 지도
+    lv = Kartes
     nb = Kart
     nl = Kaarten
     pl = Mapy
@@ -5284,6 +5313,7 @@
     it = Scarica tutte
     ja = 全てをダウンロード
     ko = 모두 다운로드
+    lv = Lejupielādēt visu
     nb = Last ned alle
     nl = Alles downloaden
     pl = Pobierz wszystkie
@@ -5319,6 +5349,7 @@
     it = In scaricamento:
     ja = ダウンロード中：
     ko = 다운로드 중:
+    lv = Lejupielādē:
     nb = Laster ned:
     nl = Aan het downloaden:
     pl = Pobieranie:
@@ -5353,6 +5384,7 @@
     it = Trovate
     ja = 見つかりました
     ko = 검색 결과
+    lv = Atrasts
     nb = Funnet
     nl = Gevonden
     pl = Znaleziono
@@ -5390,6 +5422,7 @@
     it = Aggiorna
     ja = を更新
     ko = 업데이트
+    lv = Atjaunināt
     nb = Oppdatering
     nl = Bijwerken
     pl = Aktualizacja
@@ -5427,6 +5460,7 @@
     it = Fallito
     ja = 失敗
     ko = 실패함
+    lv = Neizdevās
     nb = Mislyktes
     nl = Mislukt
     pl = Nieudane
@@ -5537,6 +5571,7 @@
     it = Scarica mappa
     ja = 地図をダウンロード
     ko = 지도 다운로드
+    lv = Lejupielādēt karti
     nb = Last ned kartet
     nl = Download de kaart
     pl = Pobierz mapę
@@ -5573,6 +5608,7 @@
     it = Riprova
     ja = リピート
     ko = 반복
+    lv = Mēģināt atkal
     nb = Gjenta
     nl = Herhalen
     pl = Powtórz
@@ -5647,6 +5683,7 @@
     it = Aggiorna mappa
     ja = 地図を更新
     ko = 지도 업데이트
+    lv = Atjaunināt karti
     nb = Oppdater kart
     nl = Kaart bijwerken
     pl = Aktualizuj mapę
@@ -6006,6 +6043,7 @@
     it = Abilita i servizi di localizzazione
     ja = 位置情報サービスを有効化してください
     ko = 위치 서비스를 작동시켜 주십시요.
+    lv = Lūdzu, ieslēdziet atrašanās vietas pakalpojumus
     nb = Aktiver posisjonstjenester
     nl = Schakel Locatie Services in
     pl = Proszę włączyć usługi lokalizacji
@@ -6041,6 +6079,7 @@
     it = Salva
     ja = 保存
     ko = 저장
+    lv = Saglabāt
     nb = Lagre
     nl = Opslaan
     pl = Zapisz
@@ -6111,6 +6150,7 @@
     it = crea
     ja = 作成
     ko = 만들기기
+    lv = radīt
     nb = opprett
     nl = aanmaken
     pl = utwórz
@@ -6740,6 +6780,7 @@
     it = Sì
     ja = はい
     ko = 네
+    lv = Jā
     nb = Ja
     nl = Ja
     pl = Tak
@@ -7101,6 +7142,7 @@
     it = Abilita i servizi di localizzazione
     ja = 位置情報サービスを有効にしてください
     ko = 위치 서비스 활성화
+    lv = Ieslēgt atrašanās vietas pakalpojumus
     nb = Aktiver stedstjenester
     nl = Schakel locatiediensten in
     pl = Włącz usługi określania lokalizacji
@@ -7244,6 +7286,7 @@
     it = Impossibile individuare il percorso
     ja = ルートの位置を確認できません
     ko = 경로를 찾을 수 없습니다
+    lv = Nav iespējams atrast maršrutu
     nb = Kunne ikke finne rute
     nl = Route vinden mislukt
     pl = Nie można zlokalizować trasy
@@ -7280,6 +7323,7 @@
     it = Impossibile creare il percorso.
     ja = 案内ルートを作成できません。
     ko = 경로를 찾을 수 없습니다.
+    lv = Nav iespējams izveidot maršrutu.
     nb = Kunne ikke finne rute.
     nl = Route samenstellen mislukt.
     pl = Nie można wyznaczyć trasy.
@@ -7316,6 +7360,7 @@
     it = Modifica il punto di partenza o la destinazione.
     ja = 出発地または目的地の位置調整をしてください。
     ko = 출발지나 목적지를 조정하세요.
+    lv = Lūdzu, pielāgojiet sākuma punktu vai galamērķi.
     nb = Endre startpunkt eller bestemmelsessted.
     nl = Kies een ander startpunt of andere bestemming.
     pl = Zmień punkt początkowy lub docelowy.
@@ -7352,6 +7397,7 @@
     it = Modifica il punto di partenza
     ja = 出発地の位置調整をしてください
     ko = 출발지 조정
+    lv = Pielāgojiet sākuma punktu
     nb = Endre startpunkt
     nl = Ander startpunt kiezen
     pl = Zmień punkt początkowy
@@ -7388,6 +7434,7 @@
     it = Percorso non creato. Impossibile individuare il punto di partenza.
     ja = 案内ルートを作成できません。出発地を確認できませんでした。
     ko = 경로가 설정되지 않았습니다. 출발지를 찾을 수 없습니다.
+    lv = Maršruts netika izveidots. Nav iespējams atrast sākuma punktu.
     nb = Ingen rute ble opprettet. Startpunktet ble ikke funnet.
     nl = Route samenstellen mislukt. Startpunt kan niet worden gevonden.
     pl = Nie wyznaczono trasy. Nie można zlokalizować punktu początkowego.
@@ -7424,6 +7471,7 @@
     it = Seleziona un punto di partenza più vicino a una strada.
     ja = 道路に近い位置にある出発地を設定してください。
     ko = 도로와 가까운 출발지를 지정해주세요.
+    lv = Lūdzu, izvēlieties sākuma punktu tuvāk ceļam.
     nb = Velg et startpunkt som er i nærheten av en vei.
     nl = Kies een startpunt dat dichter bij een weg ligt.
     pl = Wybierz punkt początkowy położony bliżej drogi.
@@ -7460,6 +7508,7 @@
     it = Modifica la destinazione
     ja = 目的地の位置調整をしてください
     ko = 목적지 조정
+    lv = Pielāgojiet galamērķi
     nb = Endre bestemmelsessted
     nl = Andere bestemming kiezen
     pl = Zmień punkt docelowy
@@ -7496,6 +7545,7 @@
     it = Percorso non creato. Impossibile individuare la destinazione.
     ja = 案内ルートを作成できません。目的地を確認できませんでした。
     ko = 경로가 설정되지 않았습니다. 목적지를 찾을 수 없습니다.
+    lv = Maršruts netika izveidots. Nav iespējams atrast galamērķi.
     nb = Ingen rute ble opprettet. Bestemmelsesstedet ble ikke funnet.
     nl = Route samenstellen mislukt. Bestemming kan niet worden gevonden.
     pl = Nie wyznaczono trasy. Nie można zlokalizować punktu docelowego.
@@ -7532,6 +7582,7 @@
     it = Seleziona un punto di destinazione più vicino a una strada.
     ja = 道路に近い位置にある目的地を設定してください。
     ko = 도로와 가까운 목적지를 지정해주세요.
+    lv = Lūdzu, izvēlieties galamērķa punktu, kas atrodas tuvāk ceļam.
     nb = Velg et bestemmelsessted som er i nærheten av en vei.
     nl = Kies een bestemming die dichter bij een weg ligt.
     pl = Wybierz punkt docelowy położony bliżej drogi.
@@ -8037,6 +8088,7 @@
     it = Arrivo a %s
     ja = 到着予定: %s
     ko = 도착: %s
+    lv = Ierašanās pie %s
     nb = Ankomme: %s
     nl = Aankomst: %s
     pl = Przybycie: %s
@@ -8280,6 +8332,7 @@
     it = Categorie
     ja = カテゴリー
     ko = 범주
+    lv = Kategorijas
     nb = Kategorier
     nl = Categorieën
     pl = Kategorie
@@ -8315,6 +8368,7 @@
     it = Cronologia
     ja = 履歴
     ko = 내역
+    lv = Vēsture
     nb = Historikk
     nl = Geschiedenis
     pl = Historia
@@ -8350,6 +8404,7 @@
     it = Chiuso
     ja = 閉鎖
     ko = 닫음
+    lv = Slēgts
     nb = Stengt
     nl = Gesloten
     pl = Zamknięte
@@ -8385,6 +8440,7 @@
     it = Non ho trovato nulla.
     ja = 申し訳ありませんが該当するものは見つかりませんでした。
     ko = 죄송합니다. 아무것도 찾지 못했습니다.
+    lv = Rezultāti netika atrasti.
     nb = Beklager, jeg fant ingenting.
     nl = Sorry, ik heb niets gevonden.
     pl = Przepraszamy, nic nie znaleziono.
@@ -8420,6 +8476,7 @@
     it = Prova con un'altra ricerca.
     ja = 別のクエリをお試しください。
     ko = 다른 쿼리를 시도하십시오.
+    lv = Mēģiniet mainīt meklēšanas kritērijus.
     nb = Vennligst prøv et annet søk.
     nl = Probeer een andere zoekopdracht.
     pl = Wpisz inne zapytanie.
@@ -8455,6 +8512,7 @@
     it = Cronologia delle ricerche
     ja = 検索履歴
     ko = 검색 기록
+    lv = Meklēšanas vēsture
     nb = Søkehistorikk
     nl = Zoekgeschiedenis
     pl = Historia wyszukiwania
@@ -8490,6 +8548,7 @@
     it = Visualizza le ricerche recenti.
     ja = 最近の検索クエリに素早くアクセス。
     ko = 최근 검색 쿼리에 신속하게 액세스할 수 있습니다.
+    lv = Skatīt pēdējos meklējumus.
     nb = Vis de siste søkene raskt.
     nl = Snel toegang tot recente zoekopdrachten.
     pl = Uzyskaj szybki dostęp do ostatniego hasła wyszukiwania.
@@ -8525,6 +8584,7 @@
     it = Cancella сronologia ricerche
     ja = 検索履歴を消去
     ko = 이력 검색 지우기
+    lv = Dzēst meklēšanas vēsturi
     nb = Tøm søkehistorikk
     nl = Zoekgeschiedenis wissen
     pl = Wyczyść historię wyszukiwania
@@ -8578,6 +8638,7 @@
     it = La tua posizione
     ja = 現在位置
     ko = 위치
+    lv = 
     nb = Din beliggenhet
     nl = Uw locatie
     pl = Twoja lokalizacja
