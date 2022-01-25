@@ -7578,6 +7578,7 @@
     it = Ingresso
     ja = エントランス
     ko = 입구
+    lv = Ieeja
     nb = Inngang
     nl = Ingang
     pl = Wejście
@@ -7613,6 +7614,7 @@
     it = Laboratorio Medico
     ja = 医療研究所
     ko = 의료 연구실
+    lv = Medicīnas laboratorija
     nb = Medisinsk laboratorium
     nl = Medisch laboratorium
     pl = Laboratorium Medyczne
@@ -7636,6 +7638,7 @@
     en = Highway
     de = Straße
     ja = 道路
+    lv = Autoceļš
     pl = Droga
     pt = Rodovia
     pt-BR = Rodovia
@@ -7685,6 +7688,7 @@
     it = Fermata
     ja = バス停
     ko = 버스 정류장
+    lv = Autobusu pietura
     nb = Busstopp
     nl = Bushalte
     pl = Przystanek autobusowy
@@ -7718,6 +7722,7 @@
     it = Strada in costruzione
     ja = 工事中の道路
     ko = 공사 중 도로
+    lv = Ceļa būvniecība
     nb = Veikonstruksjon
     nl = Baan in aanbouw
     pl = Droga w trakcie budowy
@@ -7740,6 +7745,7 @@
     de = Radweg
     fr = Piste cyclable
     ja = 自転車道
+    lv = Velosipēdu ceļš
     pl = Droga rowerowa
     pt = Ciclovia
     pt-BR = Ciclovia
@@ -7750,6 +7756,7 @@
   [type.highway.cycleway.bridge]
     ref = type.highway.cycleway
     ja = 自転車道(橋)
+    lv = Velosipēdu tilts
     pl = Most drogowy dla rowerów
 
   [type.highway.cycleway.permissive]
@@ -7785,6 +7792,7 @@
     it = Sentiero
     ja = 歩道
     ko = 길
+    lv = Gājēju ceļš
     nb = Sti
     nl = Pad
     pl = Chodnik
@@ -7912,6 +7920,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Dzīvojamā iela
     nb = Gate
     nl = Straat
     pl = Ulica w strefie zamieszkania
@@ -7952,6 +7961,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Automaģistrāle
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -7992,6 +8002,7 @@
     hu = Kijárat
     id = Keluar
     ja = ジャンクション
+    lv = Izeja no ceļa
     nb = Utgang
     nl = Afrit
     pl = Wyjazd
@@ -8040,6 +8051,7 @@
     it = Sentiero
     ja = 歩道
     ko = 길
+    lv = Taka
     nb = Sti
     nl = Pad
     pl = Ścieżka
@@ -8121,6 +8133,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Gājēju iela
     nb = Gate
     nl = Straat
     pl = Pasaż pieszy
@@ -8169,6 +8182,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Galvenais ceļš
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -8223,6 +8237,7 @@
     it = Pista
     ja = レース場
     ko = 경마장
+    lv = Sacīkšu trase
     nb = Løpebane
     nl = Racebaan
     pl = Tor wyścigowy
@@ -8255,6 +8270,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Iela
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -8296,6 +8312,7 @@
     it = Area di sosta
     ja = 休憩所
     ko = 휴게소
+    lv = Atpūtas zona
     nb = Rasteplass
     nl = Parkeerplaats
     pl = Miejsce wypoczynku
@@ -8328,6 +8345,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Ceļš
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -8368,6 +8386,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Sekundārais ceļš
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -8424,6 +8443,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Ceļš
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -8451,6 +8471,7 @@
     ref = type.highway.service
     en = Driveway
     de = Zufahrt
+    lv = Piebrauktuve
     ru = Подъезд
     uk = Під'їзд
     zh-Hans = 车道
@@ -8502,6 +8523,7 @@
     it = Autovelox
     ja = 自動速度違反取締装置
     ko = 스피드 카메라
+    lv = Ātruma fotoradars
     nb = Fotoboks
     nl = Flitspaal
     pl = Fotoradar
@@ -8534,6 +8556,7 @@
     it = Sentiero
     ja = 歩道
     ko = 길
+    lv = Kāpnes
     nb = Sti
     nl = Pad
     pl = Schody
@@ -8572,6 +8595,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Trešā līmeņa ceļš
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -8628,6 +8652,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Taka
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -8692,6 +8717,7 @@
     it = Semaforo
     ja = 交通信号
     ko = 신호등
+    lv = Luksofori
     nb = Trafikklys
     nl = Verkeerslichten
     pl = Sygnalizacja świetlna
@@ -8724,6 +8750,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Valsts šoseja
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -8778,6 +8805,7 @@
     it = Via
     ja = ストリート
     ko = 거리
+    lv = Mazceļš
     nb = Gate
     nl = Straat
     pl = Ulica
@@ -8871,6 +8899,7 @@
     en = Historic
     de = Historisches Objekt
     ja = 史跡
+    lv = Vēsturisks objekts
     pl = Historyczne
     pt = Histórico
     pt-BR = Histórico
@@ -8894,6 +8923,7 @@
     it = Sito archeologico
     ja = 考古遺跡
     ko = 발굴
+    lv = Arheoloģiskā vieta
     nb = Arkeologisk område
     nl = Archeologische site
     pl = Odkrywka archeologiczna
@@ -8949,6 +8979,7 @@
     it = Castello
     ja = 城
     ko = 성
+    lv = Pils
     nb = Slott
     nl = Kasteel
     pl = Zamek
@@ -9013,6 +9044,7 @@
     it = Castello
     ja = 城
     ko = 성
+    lv = Pils
     nb = Slott
     nl = Kasteel
     pl = Zamek
@@ -9034,6 +9066,7 @@
     de = Stadtmauer
     fr = Muraille
     ja = 歴史的な城壁
+    lv = Pilsētas mūris
     pl = Historyczne mury miasta
     pt = Muralha de cidade
     pt-BR = Muralha de cidade
@@ -9046,6 +9079,7 @@
     de = Festung
     fr = Fort militaire
     ja = 歴史的な要塞
+    lv = Forts
     pl = Historyczny fort
     pt = Forte histórico
     pt-BR = Forte histórico
@@ -9068,6 +9102,7 @@
     it = Memoriale
     ja = 記念碑
     ko = 기념비
+    lv = Piemiņas vieta
     nb = Minnesmerke
     nl = Gedenkteken
     pl = Pomnik
@@ -9099,6 +9134,7 @@
     it = Memoriale
     ja = 銘板
     ko = 기념비
+    lv = Piemiņas plāksne
     nb = Minnesmerke
     nl = Gedenkteken
     pl = Tablica pamiątkowa
@@ -9130,6 +9166,7 @@
     it = Memoriale
     ja = 彫刻
     ko = 기념비
+    lv = Skulptūra
     nb = Minnesmerke
     nl = Gedenkteken
     pl = Rzeźba
@@ -9161,6 +9198,7 @@
     it = Memoriale
     ja = 塑像
     ko = 기념비
+    lv = Statuja
     nb = Minnesmerke
     nl = Gedenkteken
     pl = Pomnik
@@ -9191,6 +9229,7 @@
     it = Monumento
     ja = 記念碑
     ko = 기념탑
+    lv = Piemineklis
     pt = Monumento
     pt-BR = Monumento
     ru = Памятник
@@ -9218,6 +9257,7 @@
     it = Rovine
     ja = 古跡
     ko = 유적
+    lv = Drupas
     nb = Ruiner
     nl = Ruïne
     pl = Ruiny
@@ -9250,6 +9290,7 @@
     it = Turistico
     ja = 退役船
     ko = 배
+    lv = Kuģis
     nb = Severdigheter
     nl = Toerisme
     pl = Okręt
@@ -9282,6 +9323,7 @@
     it = Turistico
     ja = 墓
     ko = 무덤
+    lv = Kapene
     nb = Severdigheter
     nl = Toerisme
     pl = Grobowiec
@@ -9315,6 +9357,7 @@
     de = Bildstock
     fr = Oratoire
     ja = 歴史的な祠
+    lv = Svētnīca
     pl = Kapliczka przydrożna
     pt = Alminhas
     pt-BR = Alminhas
@@ -9368,6 +9411,7 @@
     fa = وای فای
     ja = インターネット
     ko = 인터넷
+    lv = Internets
     pt = Internet
     pt-BR = Internet
     ru = Интернет
@@ -9383,6 +9427,7 @@
     fa = وای فای
     ja = インターネット
     ko = 인터넷
+    lv = Internets
     pt = Internet
     pt-BR = Internet
     ru = Интернет
@@ -9406,6 +9451,7 @@
     de = Kreisverkehr
     fr = Rond-point
     ja = ラウンドアバウト
+    lv = Apļveida krustojums
     pl = Rondo
     pt = Rotunda
     pt-BR = Rotatória
@@ -9417,6 +9463,7 @@
     en = Landuse
     de = Landnutzung
     ja = 土地利用
+    lv = Zemes lietojums
     pl = Zagospodarowanie ziemi
     pt = Uso do solo
     pt-BR = Uso do solo
@@ -9429,6 +9476,7 @@
     de = Kleingarten
     fr = Jardins familiaux
     ja = 市民農園
+    lv = Zemes gabali
     pl = Działki
     pt = Horta comunitária
     pt-BR = Horta comunitária
@@ -9455,6 +9503,7 @@
     it = Bacino d'acqua
     ja = 水地
     ko = 저수지
+    lv = Ūdens rezervuārs
     nb = Vannvask
     nl = Waterbassin
     pl = Zbiornik
@@ -9477,6 +9526,7 @@
     de = Brachfläche
     fr = Friche industrielle
     ja = 再開発用地
+    lv = Apbūvei paredzētā zeme
     pl = Teren do zabudowy
     pt = Terreno industrial devoluto
     pt-BR = Terreno industrial devoluto
@@ -9512,6 +9562,7 @@
     it = Sagrato della chiesa
     ja = キリスト教教会付属地
     ko = 교회 마당
+    lv = Baznīcas pagalms
     nb = Kirkegård
     nl = Kerkhof
     pl = Teren kościelny
@@ -9534,6 +9585,7 @@
     de = Gewerbegebiet
     fr = Zone commerciale
     ja = 商業用地
+    lv = Komerciālā zona
     pl = Teren handlu i usług
     pt = Área comercial
     pt-BR = Área comercial
@@ -9546,6 +9598,7 @@
     de = Baustelle
     fr = Chantier de construction
     ja = 建設工事中
+    lv = Celtniecība
     pl = Teren budowy
     pt = Construção
     pt-BR = Construção
@@ -9557,6 +9610,7 @@
     en = Farm
     de = Bauernhof
     ja = 農地
+    lv = Ferma
     pl = Gospodarstwo rolne
     pt = Quinta
     pt-BR = Fazenda
@@ -9581,6 +9635,7 @@
     it = Terreno agricolo
     ja = 農地
     ko = 농지
+    lv = Lauksaimniecības zeme
     nb = Jordbruksområde
     nl = Landbouwgrond
     pl = Grunt rolny
@@ -9603,6 +9658,7 @@
     de = Landwirtschaftlich genutzte Fläche
     fr = Ferme
     ja = 農地
+    lv = Saimniecības pagalms
     pl = Obejście gospodarskie
     pt = Pátio de quinta
     pt-BR = Pátio de fazenda
@@ -9614,6 +9670,7 @@
     en = Field
     de = Feld
     fr = Champ
+    lv = Lauks
     pl = Pole
     pt = Campo
     pt-BR = Campo
@@ -9636,6 +9693,7 @@
     it = Foresta
     ja = 森林
     ko = 숲
+    lv = Mežs
     nb = Skog
     nl = Bos
     pl = Las
@@ -9668,6 +9726,7 @@
     it = Foresta
     ja = 森林
     ko = 숲
+    lv = Skujkoku mežs
     nb = Skog
     nl = Bos
     pl = Las iglasty
@@ -9700,6 +9759,7 @@
     it = Foresta
     ja = 森林
     ko = 숲
+    lv = Lapkoku mežs
     nb = Skog
     nl = Bos
     pl = Las liściasty
@@ -9732,6 +9792,7 @@
     it = Foresta
     ja = 森林
     ko = 숲
+    lv = Jauktais mežs
     nb = Skog
     nl = Bos
     pl = Las mieszany
@@ -9752,6 +9813,7 @@
     en = Garages
     de = Garagen
     ja = ガレージ
+    lv = Garāžas
     pl = Garaże
     pt = Garagens
     pt-BR = Garagens
@@ -9776,6 +9838,7 @@
     it = Prato erboso
     ja = 芝生
     ko = 잔디
+    lv = Zālājs
     nb = Plen
     nl = Gazon
     pl = Trawnik
@@ -9810,6 +9873,7 @@
     de = Gewächshaus-Fläche
     fr = Culture sous serre
     ja = 温室栽培
+    lv = Siltumnīca
     pt = Estufas
     pt-BR = Estufas
     ru = Теплицы
@@ -9821,6 +9885,7 @@
     de = Industriegebiet
     fr = Zone industrielle
     ja = 工業用地
+    lv = Industriālā zeme
     pl = Obszar przemysłowy
     pt = Terreno industrial
     pt-BR = Terreno industrial
@@ -9845,6 +9910,7 @@
     it = Luogo di scarico
     ja = 埋立地
     ko = 쓰레기 매립지
+    lv = Atkritumu poligons
     nb = Land-deponi
     nl = Stortplaats
     pl = Składowisko odpadów
@@ -9867,6 +9933,7 @@
     de = Wiese
     fr = Prairie
     ja = 牧草地
+    lv = Pļava
     pl = Łąka
     pt = Pradaria
     pt-BR = Pradaria
@@ -9879,6 +9946,7 @@
     de = Militärisch genutztes Gebiet
     fr = Terrain militaire
     ja = 軍用地
+    lv = Militārā zona
     pl = Teren wojskowy
     pt = Área militar
     pt-BR = Área militar
@@ -9891,6 +9959,7 @@
     de = Obstplantage
     fr = Vergers
     ja = 果樹園
+    lv = Augļu dārzs
     pl = Sad
     pt = Pomar
     pt-BR = Pomar
@@ -9903,6 +9972,7 @@
     de = Steinbruch
     fr = Carrières
     ja = 採石場
+    lv = Karjers
     pl = Kamieniołom
     pt = Pedreira
     pt-BR = Pedreira
@@ -9948,6 +10018,7 @@
     en = Recreation Ground
     de = Erholungsgebiet
     ja = レクリエーション
+    lv = Atpūtas laukuma teritorija
     pl = Tereny wypoczynkowe
     pt = Área de lazer
     pt-BR = Área de lazer
@@ -9971,6 +10042,7 @@
     it = Bacino
     ja = 貯水池
     ko = 저수지
+    lv = Ūdens
     nb = Vann
     pl = Woda
     pt = Água
@@ -9991,6 +10063,7 @@
     de = Wohngebiet
     fr = Zone résidentielle
     ja = 住宅地
+    lv = Dzīvojamā zeme
     pl = Tereny zamieszkania
     pt = Área residencial
     pt-BR = Área residencial
@@ -10002,6 +10075,7 @@
     en = Retail Land
     de = Einzelhandelsgebiet
     ja = 小売店エリア
+    lv = Mazumtirdzniecības zeme
     pl = Obszar handlu
     pt = Área de retalho
     pt-BR = Área de varejo
@@ -10014,6 +10088,7 @@
     de = Saline
     fr = Marais salant
     ja = 塩田
+    lv = Dīķis
     pl = Słone jezioro
     pt = Salinas
     pt-BR = Salinas
@@ -10035,6 +10110,7 @@
     de = Weinberg
     fr = Vignes
     ja = ブドウ園
+    lv = Vīnogu dārzs
     pl = Winnica
     pt = Vinha
     pt-BR = Vinha
@@ -10046,6 +10122,7 @@
     en = Leisure
     de = Freizeit
     ja = レジャー
+    lv = Atpūtai
     pl = Wypoczynek
     pt = Lazer
     pt-BR = Lazer
@@ -10058,6 +10135,7 @@
     en-GB = Common Land
     de = öffentliche Grünfläche
     ja = レジャー(共有地)
+    lv = Publiskā zeme
     pt = Terreno baldio
     pt-BR = Terreno baldio
     ru = Общественная земля
@@ -10081,6 +10159,7 @@
     it = Area sgambamento cani
     ja = ドッグエリア
     ko = 애완견 지역
+    lv = Suņu laukums
     nb = Hundeområde
     nl = Plaats voor hondenuitlaten
     pl = Miejsce na spacer z psem
@@ -10114,6 +10193,7 @@
     it = Centro benessere
     ja = フィットネスセンター、ジム
     ko = 피트니스센터
+    lv = Sporta centrs
     nb = Treningssenter
     nl = Fitnesscentrum
     pl = Centrum fitness
@@ -10146,6 +10226,7 @@
     it = Centro fitness
     ja = フィットネスステーション
     ko = 피트니스 스테이션
+    lv = Sporta aprīkojums
     nb = Treningssenter
     nl = Fitness-Station
     pl = Stacja fitness
@@ -10178,6 +10259,7 @@
     it = Giardino
     ja = 庭園
     ko = 정원
+    lv = Dārzs
     nb = Hage
     nl = Tuin
     pl = Ogród
@@ -10210,6 +10292,7 @@
     it = Campo da golf
     ja = ゴルフコース
     ko = 골프장
+    lv = Golfa laukums
     nb = Golfbane
     nl = Golfbaan
     pl = Kurs golfowy
@@ -10273,6 +10356,7 @@
     it = Riserva
     ja = 自然保護区
     ko = 천연보호구역
+    lv = Dabas rezervāts
     nb = Reservat
     nl = Reserve
     pl = Rezerwat przyrody
@@ -10307,6 +10391,7 @@
     it = Parco
     ja = 公園
     ko = 공원
+    lv = Parks
     nb = Park
     nl = Park
     pl = Park
@@ -10341,6 +10426,7 @@
     it = Parco
     ja = 公園
     ko = 공원
+    lv = Parks
     nb = Park
     nl = Park
     pl = Park
@@ -10375,6 +10461,7 @@
     it = Parco
     ja = 公園
     ko = 공원
+    lv = Parks
     nb = Park
     nl = Park
     pl = Park
@@ -10409,6 +10496,7 @@
     it = Parco
     ja = 公園
     ko = 공원
+    lv = Parks
     nb = Park
     nl = Park
     pl = Park
@@ -10445,6 +10533,7 @@
     it = Tavolo da picnic
     ja = ピクニック用のテーブル
     ko = "피크닉 테이블"
+    lv = Piknika galds
     nb = Piknikbord
     nl = Picknicktafel
     pl = Stół piknikowy
@@ -10478,6 +10567,7 @@
     it = Campo sportivo
     ja = 運動場
     ko = 운동장
+    lv = Sporta laukums
     nb = Sportssenter
     nl = Sportveld
     pl = Boisko sportowe
@@ -10510,6 +10600,7 @@
     it = Campo giochi
     ja = 児童公園
     ko = 놀이터
+    lv = Rotaļu laukums
     nb = Lekeplass
     nl = Speeltuin
     pl = Plac zabaw
@@ -10693,6 +10784,7 @@
     it = Centro natatorio
     ja = スイミングセンター
     ko = 수영 센터
+    lv = Peldēšanas centrs
     nb = Svømmehall
     nl = Zwembad
     pl = Pływalnia
@@ -10755,6 +10847,7 @@
     it = Stadio
     ja = スタジアム
     ko = 경기장
+    lv = Stadions
     nb = Stadion
     pl = Stadion
     pt = Estádio
@@ -10786,6 +10879,7 @@
     it = Piscina
     ja = プール
     ko = 수영장
+    lv = Peldbaseins
     nb = Svømmebasseng
     nl = Zwembad
     pl = Basen
@@ -10829,6 +10923,7 @@
     it = Parco acquatico
     ja = ウォーターパーク
     ko = 워터파크
+    lv = Akvaparks
     nb = Vannpark
     nl = Waterpark
     pl = Park wodny
@@ -10847,6 +10942,7 @@
 
   [type.leisure.beach_resort]
     en = Beach Resort
+    lv = Pludmales kūrorts
     ru = Пляжный курорт
     uk = Пляжний курорт
 
@@ -10854,6 +10950,7 @@
     en = Man Made
     de = künstliche Anlage
     ja = 構造物
+    lv = Cilvēka radīts
     pt = Construção humana
     pt-BR = Construção humana
     ru = Искусственное сооружение
@@ -10865,6 +10962,7 @@
     de = Wellenbrecher
     fr = Brise-lames
     ja = 防波堤
+    lv = Mols
     pl = Falochron
     pt = Molhe
     pt-BR = Molhe
@@ -10897,6 +10995,7 @@
     it = Ciminiera industriale
     ja = 工場煙突
     ko = 공장 굴뚝
+    lv = Rūpnīcas skurstenis
     nb = Fabrikkpipe
     nl = Fabrieksschoorsteen
     pl = Komin fabryki
@@ -10917,6 +11016,7 @@
     en = Cutline
     de = Schneise
     ja = 森林の切れ目
+    lv = Griezuma līnija
     pl = Przecinka leśna
     pt = Atalhada
     pt-BR = Aceiro
@@ -10927,6 +11027,7 @@
   [type.man_made.flagpole]
     en = Flagpole
     be = Флагшток
+    lv = Karoga masts
     ru = Флагшток
     uk = Флагшток
 
@@ -10946,6 +11047,7 @@
     it = Faro
     ja = 灯台
     ko = 등대
+    lv = Bāka
     nb = Fyr
     nl = Vuurtoren
     pl = Latarnia morska
@@ -10965,6 +11067,7 @@
   [type.man_made.mast]
     en = Pole mast
     be = Слуп-шчогла
+    lv = Masts
     ru = Столб-мачта
     uk = Стовп-щогла
 
@@ -10984,6 +11087,7 @@
   [type.man_made.pipeline]
     en = Pipeline
     ja = パイプライン
+    lv = Cauruļvads
     nl = Pijpleiding
     pl = Rurociąg
     pt = Pipeline
@@ -10995,6 +11099,7 @@
   [type.man_made.pipeline.overground]
     en = Overground Pipeline
     ja = 地表のパイプライン
+    lv = Virszemes cauruļvads
     nl = Bovengrondse pijpleiding
     pl = Rurociąg nad ziemią
     pt = Pipeline aéreo
@@ -11033,6 +11138,7 @@
     it = Videocamera di sorveglianza
     ja = 監視カメラ
     ko = 감시 카메라
+    lv = Novērošanas kamera
     nb = Overvåkingskamera
     nl = Bewakingscamera
     pl = Kamera monitoringu
@@ -11065,6 +11171,7 @@
     it = Torre
     ja = タワー
     ko = 타워
+    lv = Tornis
     nb = Tårn
     nl = Toren
     pl = Wieża
@@ -11086,6 +11193,7 @@
     de = Kläranlage
     fr = Station d'épuration
     ja = 下水処理場
+    lv = Notekūdeņu attīrīšanas rūpnīca
     pl = Oczyszczalnia ścieków
     pt = Estação de tratamento de águas residuais
     pt-BR = Estação de tratamento de esgoto
@@ -11109,6 +11217,7 @@
     it = Rubinetto dell'acqua
     ja = 給水栓
     ko = 수도꼭지
+    lv = Ūdens krāns
     nb = Vannkran
     nl = Waterkraan
     pl = Woda pitna
@@ -11141,6 +11250,7 @@
     it = Cisterna per acqua
     ja = 給水塔
     ko = 급수탑
+    lv = Ūdens tornis
     nb = Vanntårn
     nl = Watertoren
     pl = Wieża wodna
@@ -11173,6 +11283,7 @@
     it = Pozzo d'acqua
     ja = 井戸
     ko = 우물
+    lv = Aka
     nb = Brønn
     nl = Waterbron
     pl = Studnia
@@ -11205,6 +11316,7 @@
     it = Mulino a vento
     ja = 風車
     ko = 풍차
+    lv = Vējdzirnavas
     nb = Vindmølle
     nl = Windmolen
     pl = Młyn wiatrowy
@@ -11258,6 +11370,7 @@
     fi = Bunkkeri
     ja = 掩蔽壕
     ko = 벙커
+    lv = Bunkurs
     pl = Bunkier
     pt = Búnquer
     pt-BR = Búnquer
@@ -11282,6 +11395,7 @@
     en = Natural
     de = Natur
     ja = 自然
+    lv = Daba
     nl = Natuurlijk
     pl = Natura
     pt = Natureza
@@ -11351,6 +11465,7 @@
     it = Spiaggia
     ja = ビーチ
     ko = 바닷가
+    lv = Pludmale
     nb = Strand
     nl = Strand
     pl = Plaża
@@ -11370,6 +11485,7 @@
     en = Sandy Beach
     be = Пяшчаны пляж
     de = Sandstrand
+    lv = Smilšaina pludmale
     ru = Песчаный пляж
     uk = Піщаний пляж
 
@@ -11430,6 +11546,7 @@
     it = Grotta
     ja = 洞窟
     ko = 동굴
+    lv = Ala
     nb = Grotte
     nl = Grot
     pl = Jaskinia
@@ -11451,6 +11568,7 @@
     de = Klippe
     fr = Falaise
     ja = 崖
+    lv = Klints
     nl = Klif
     pl = Klif
     pt = Falésia
@@ -11464,6 +11582,7 @@
     de = Küstenlinie
     fr = Littoral
     ja = 海岸線
+    lv = Krasta līnija
     nl = Kustlijn
     pl = Linia brzegowa
     pt = Linha costeira
@@ -11557,6 +11676,7 @@
     it = Campo
     ja = 野原
     ko = 밭
+    lv = Lauks
     nb = Slette
     nl = Veld
     pl = Pastwisko
@@ -11616,6 +11736,7 @@
     it = Lago
     ja = 湖
     ko = 호수
+    lv = Ezers
     nb = Innsjø
     nl = Meer
     pl = Jezioro
@@ -11649,6 +11770,7 @@
     it = Stagno
     ja = 池
     ko = 연못이
+    lv = Dīķis
     nb = Dam
     nl = Plas
     pl = Staw
@@ -11684,6 +11806,7 @@
     it = Serbatoio
     ja = 貯水池
     ko = 저수지
+    lv = Rezervuārs
     nb = Reservoar
     nl = Reservoir
     pl = Zbiornik
@@ -11753,6 +11876,7 @@
     it = Fiume
     ja = 河川
     ko = 강
+    lv = Upe
     nb = Elv
     nl = Rivier
     pl = Rzeka
@@ -11820,6 +11944,7 @@
     it = Monte
     ja = 山頂
     ko = 산
+    lv = Virsotne
     nb = Høydepunkt
     nl = Top
     pl = Szczyt
@@ -11850,6 +11975,7 @@
     de = Fels
     fr = Rocher
     ja = 岩
+    lv = Akmens
     nl = Steen
     pl = Skała
     pt = Rochedo
@@ -11875,6 +12001,7 @@
     it = Boscaglia
     ja = 雑木林
     ko = 관목지
+    lv = Krūmājs
     nb = Myr
     nl = Kreupel bos
     pl = Zarośla
@@ -11908,6 +12035,7 @@
     it = Sorgente
     ja = 泉
     ko = 샘
+    lv = Avots
     nb = Vår
     nl = Bron
     pl = Źródło
@@ -11974,6 +12102,7 @@
     it = Albero
     ja = 木
     ko = 나무
+    lv = Koks
     nb = Tre
     nl = Boom
     pl = Drzewo
@@ -11995,6 +12124,7 @@
     de = Allee
     fr = Rangée d'arbre
     ja = 並木
+    lv = Koku rinda
     nl = Bomenrij
     pl = Rząd drzew
     pt = Linha de árvores
@@ -12007,6 +12137,7 @@
     en = Vineyard
     de = Weinberg
     ja = ブドウ園
+    lv = Vīnogu dārzs
     nl = Wijngaard
     pl = Winnica
     pt = Vinha
@@ -12030,6 +12161,7 @@
     it = Vulcano
     ja = 火山
     ko = 화산
+    lv = Vulkāns
     nb = Vulkan
     nl = Vulkaan
     pl = Wulkan
@@ -12065,6 +12197,7 @@
     it = Corpo d'acqua
     ja = 水地
     ko = 수역
+    lv = Ūdenstilpe
     nb = Vassmasse
     nl = Waterlichaam
     pl = Akwen
@@ -12133,6 +12266,7 @@
     de = Sumpf
     fr = Marais
     ja = 沼地
+    lv = Ūdenstilpe
     nl = Moeras
     pl = Moczary
     pt = Zona úmida
@@ -12166,6 +12300,7 @@
     it = Ufficio
     ja = オフィス
     ko = 사무실
+    lv = Birojs
     nb = Kontor
     nl = Kantoor
     pl = Biuro
